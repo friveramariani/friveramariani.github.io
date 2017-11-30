@@ -12,7 +12,6 @@ Find below links to certificates of completed Specializations Statistics and Dat
 + Statistical Reasoning for Public Health 1:  Estimation, Inference, & Interpretation (Johns Hopkins University on www.coursera.org)
 + Statistical Reasoning for Public Health II: Regression Methods (Johns Hopkins University on www.coursera.org)
 + Epidemiology: The Basic Science of Public Health (University of North Carolina on www.coursera. org)
-----
 
 #### Data Science Specialization 
 (Johns Hopkins University on www.coursera.org)
@@ -27,7 +26,6 @@ Find below links to certificates of completed Specializations Statistics and Dat
 + Practical Machine Learning
 + Developing Data Products
 + Data Science Capstone
-----
 
 #### Executive Data Science Specialization 
 (Johns Hopkins University on www.coursera.org)
@@ -37,7 +35,6 @@ Find below links to certificates of completed Specializations Statistics and Dat
 + Managing Data Analysis
 + Data Science in Real Life
 + Executive Data Science Capstone
-----
 
 ### Mastering Software Development in R 
 (Johns Hopkins University on www.coursera.org)
@@ -47,7 +44,6 @@ Find below links to certificates of completed Specializations Statistics and Dat
 + Building R Packages
 + Building Data Visualization Tools
 + R Programming Capstone
-----
 
 ***Find below links to certificates of completed Genomic Data Science, System Biology, and Bioinformatics***
 
@@ -62,7 +58,6 @@ Find below links to certificates of completed Specializations Statistics and Dat
 + Statistics for Genomic Data Science
 + Command Line Tools for Genomic Data 
 + Genomic Data Science Capstone
-----
 
 #### Systems Biology and Biotechnology Specialization 
 (Icahn School of Medicine at Mount Sinai on www.coursera.org)
@@ -73,7 +68,6 @@ Find below links to certificates of completed Specializations Statistics and Dat
 + Dynamical Modeling Methods for Systems Biology 
 + Integrated Analysis in Systems Biology
 + Systems Biology and Biotechnology Capstone 
-----
 
 #### Bioinformatics Specialization 
 (University of California at San Diego, on www.coursera.org)
