@@ -6,9 +6,14 @@ title: Dr. Rivera-Mariani's Credentials
 
 ## CV, Fellowships, and Specializations
 
-- [Updated CV]()
+- [Updated CV](https://github.com/friveramariani/friveramariani.github.io/blob/master/CV/CV_FE_RiveraMariani.pdf)
+
 - Postdoctoral Fellowships at the Bloomberg School of Public Health of the Johns Hopkins University
+<img src="images/STF_ASM.jpg" alt="Postdoctoral Fellowship at Johns Hopkins" align="right" style="width: 30%; height: 30%; margin:8px"> <a name="Postdoctoral Fellowship at Johns Hopkins"></a> 
+
+
 - Science Teaching Fellowship at the American Society for Microbiology
+<img src="images/STF_ASM.jpg" alt="Science Teaching Fellowship at ASM" align="right" style="width: 30%; height: 30%; margin:8px"> <a name="Science Teaching Fellowship at ASM"></a> 
 
 Find below links to certificates of completed Specializations Statistics and Data Science
 
