@@ -8,13 +8,15 @@ title: Dr. Rivera-Mariani's Credentials
 
 - [Updated CV](https://github.com/friveramariani/friveramariani.github.io/blob/master/CV/CV_FE_RiveraMariani.pdf)
 
-- Postdoctoral Fellowships at the Bloomberg School of Public Health of the Johns Hopkins University
+- **Postdoctoral Fellowships at the Bloomberg School of Public Health of the Johns Hopkins University**
 <img src="images/JHSPH_Fellowship.jpg" alt="Science Teaching Fellowship at ASM" class="inline"/>
 
-- Science Teaching Fellowship at the American Society for Microbiology
+- **Science Teaching Fellowship at the American Society for Microbiology**
 <img src="images/STF_ASM.jpg" alt="Science Teaching Fellowship at ASM" class="inline"/>
 
-Find below links to certificates of completed Specializations Statistics and Data Science
+---
+
+***Find below links to certificates of completed Specializations Statistics and Data Science***
 
 #### Public Health-Related Statistical Training
 + Statistical Reasoning for Public Health 1:  Estimation, Inference, & Interpretation (Johns Hopkins University on www.coursera.org)
