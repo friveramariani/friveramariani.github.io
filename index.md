@@ -3,7 +3,7 @@ title: Dr. Félix E. Rivera-Mariani
 ---
 
 
-[**Credentials**](http://www.friveram.com/about) | [**Publications**](http://www.friveram.com/publications) | [**Projects**](http://www.friveram.comt/projects) | [**Computational**](http://www.friveram.com/compbio) | [**Teaching**](http://www.friveram.com/teaching) 
+[**Credentials**](http://www.friveram.com/about) | [**Publications**](http://www.friveram.com/publications) | [**Projects**](http://www.friveram.com/projects) | [**Computational**](http://www.friveram.com/compbio) | [**Teaching**](http://www.friveram.com/teaching) 
 
 ## Felix E. Rivera-Mariani, PhD
 

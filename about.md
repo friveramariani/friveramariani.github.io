@@ -2,9 +2,13 @@
 title: Dr. Rivera-Mariani's Credentials
 ---
 
-[**Home Page**](http://www.friveram.com/) | [**Publications**](http://www.friveram.com/publications) | [**Projects**](http://www.friveram.comt/projects) | [**Computational**](http://www.friveram.com/compbio) | [**Teaching**](http://www.friveram.com/teaching) 
+[**Home Page**](http://www.friveram.com/) | [**Publications**](http://www.friveram.com/publications) | [**Projects**](http://www.friveram.com/projects) | [**Computational**](http://www.friveram.com/compbio) | [**Teaching**](http://www.friveram.com/teaching) 
 
-## My Credentials
+## CV, Fellowships, and Specializations
+
+- [Updated CV]()
+- Postdoctoral Fellowships at the Bloomberg School of Public Health of the Johns Hopkins University
+- Science Teaching Fellowship at the American Society for Microbiology
 
 Find below links to certificates of completed Specializations Statistics and Data Science
 
