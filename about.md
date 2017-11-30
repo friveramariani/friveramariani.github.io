@@ -49,6 +49,8 @@ Find below links to certificates of completed Specializations Statistics and Dat
 + Building Data Visualization Tools
 + R Programming Capstone
 
+---
+
 ***Find below links to certificates of completed Genomic Data Science, System Biology, and Bioinformatics***
 
 #### Genomic Data Science Specialization
