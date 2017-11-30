@@ -2,6 +2,8 @@
 title: Dr. Rivera-Mariani's Credentials
 ---
 
+[**Home Page**](http://www.friveram.com/) | [**Publications**](http://www.friveram.com/publications) | [**Projects**](http://www.friveram.comt/projects) | [**Computational**](http://www.friveram.com/compbio) | [**Teaching**](http://www.friveram.com/teaching) 
+
 ## My Credentials
 
 Find below links to certificates of completed Specializations Statistics and Data Science
