@@ -4,7 +4,7 @@ title: Dr. Rivera-Mariani Current Projects
 
 [**Home Page**](http://www.friveram.comt/) | [**Credentials**](http://www.friveram.com/about) | [**Publications**](http://www.friveram.com/publications) | [**Computational**](http://www.friveram.com/compbio) | [**Teaching**](http://www.friveram.com/teaching) 
 
-## Dr. Rivera-Mariani's Current Projects 
+## Current Projects 
 
 - [Respiratory and Immunology Project at Larkin University](https://friveramariani.github.io/RIPL_Effect/) 
 - [Rheumatoid Arthritis and Air Pollution](https://friveramariani.github.io/RA_RD/)
