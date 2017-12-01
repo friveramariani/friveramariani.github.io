@@ -16,11 +16,12 @@ title: Dr. Félix E. Rivera-Mariani
 
 [Credentials](http://www.friveram.com/about)
 
-[Projects](http://www.friveram.comt/projects)
+[Projects](http://www.friveram.com/projects)
 
 [Publications](http://www.friveram.com/publications)
 
-[Computational approaches](http://www.friveram.com/combio)
+[Computational approaches](http://www.friveram.com/compbio)
 
 [Courses and Workshops I've have taught](http://www.friveram.com/teaching)
 
+<font size="1">&#169; Felix E. Rivera-Mariani, PhD 2017 <i>The contents of this website reflect the views of the author and does not represent the views of my institution.</i>.</font>

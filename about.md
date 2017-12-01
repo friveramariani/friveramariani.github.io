@@ -11,6 +11,8 @@ title: Dr. Rivera-Mariani's Credentials
 - **Postdoctoral Fellowships at the Bloomberg School of Public Health of the Johns Hopkins University**
 <img src="images/JHSPH_Fellowship.jpg" alt="Science Teaching Fellowship at ASM" class="inline"/>
 
+---
+
 - **Science Teaching Fellowship at the American Society for Microbiology**
 <img src="images/STF_ASM.jpg" alt="Science Teaching Fellowship at ASM" class="inline"/>
 
@@ -91,3 +93,7 @@ title: Dr. Rivera-Mariani's Credentials
 + [Bioinformatics V (Genomic Data Science and Clustering)](https://felix-riveramariani-ms9j.squarespace.com/s/Pages-from-ApplicationPackageBarryBiomed_RiveraMariani.pdf)
 + [Bioinformatics VI (Finding Mutations in DNA and Proteins)](https://www.coursera.org/account/accomplishments/certificate/39X9PLSJGS2B)
 + Bioinformatics Capstone (Big Data in Biology)
+
+[**Click here to return to the Home Page**](https://www.friveram.com/)
+
+<font size="1">&#169; Felix E. Rivera-Mariani, PhD 2017 <i>The contents of this website reflect the views of the author and does not represent the views of my institution.</i>.</font>
