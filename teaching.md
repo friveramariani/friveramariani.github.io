@@ -15,19 +15,19 @@ Find in this page information about
 #### Courses
 
 <ul>
-<li><div style="text-align:justify"><p>	<strong>Medical Biochemistry 1</strong>:The Medical Biochemistry I course introduces the fundamental aspects of biological chemistry from both a biochemical and medical perspective. The course overviews the structure, function, and metabolism of biological molecules: carbohydrates, fatty acids, proteins and nucleic acids. We also evaluate in detail enzyme kinetics, including their activation, inhibition, and allosteric interactions in metabolic pathways of biological molecules and other physiological processes, as well as in the flow of genetic information. Students learn to elaborate on specific biochemical pathways and how they interface with human physiology and diseases, including disease etiology, diagnosis, and treatment. Not less important will be describing and applying biochemical concepts and techniques into diseases diagnosis and current scientific research.</p></div></li> 
+<li><div style="text-align:justify"><p>	<strong>Medical Biochemistry 1</strong>: The Medical Biochemistry I course introduces the fundamental aspects of biological chemistry from both a biochemical and medical perspective. The course overviews the structure, function, and metabolism of biological molecules: carbohydrates, fatty acids, proteins and nucleic acids. We also evaluate in detail enzyme kinetics, including their activation, inhibition, and allosteric interactions in metabolic pathways of biological molecules and other physiological processes, as well as in the flow of genetic information. Students learn to elaborate on specific biochemical pathways and how they interface with human physiology and diseases, including disease etiology, diagnosis, and treatment. Not less important will be describing and applying biochemical concepts and techniques into diseases diagnosis and current scientific research.</p></div></li> 
 </ul>
 
 <ul>
-<li><div style="text-align:justify"><p>	<strong>Medical Biochemistry 2</strong>:The Medical Biochemistry 2 course builds on the concepts learned in Medical Biochemistry 1 to apply the chemistry of biomolecules from a tissue-specific and clinical standpoints. The course overviews the function and metabolism of biological molecules (e.g carbohydrates, fatty acids, proteins and nucleic acids) at specific tissues and diseases. Students implement higher levels of learning and knowledge dimmensions to analyze clinical scenarios, evaluate possible biochemical outcomes, and how to address biochemical defficiency or malfunctions.. As with Medical Biochemistry 1, students also elaborate on specific biochemical pathways and how they interface with human physiology and diseases, including disease etiology, diagnosis, and treatment. Not less important will be describing and applying biochemical concepts and techniques into diseases diagnosis and current scientific research. .</p></div></li> 
+<li><div style="text-align:justify"><p>	<strong>Medical Biochemistry 2</strong>: The Medical Biochemistry 2 course builds on the concepts learned in Medical Biochemistry 1 to apply the chemistry of biomolecules from a tissue-specific and clinical standpoints. The course overviews the function and metabolism of biological molecules (e.g carbohydrates, fatty acids, proteins and nucleic acids) at specific tissues and diseases. Students implement higher levels of learning and knowledge dimmensions to analyze clinical scenarios, evaluate possible biochemical outcomes, and how to address biochemical defficiency or malfunctions.. As with Medical Biochemistry 1, students also elaborate on specific biochemical pathways and how they interface with human physiology and diseases, including disease etiology, diagnosis, and treatment. Not less important will be describing and applying biochemical concepts and techniques into diseases diagnosis and current scientific research. .</p></div></li> 
 </ul>
 
 <ul>
-<li><div style="text-align:justify"><p>	<strong>Immunology</strong>:This course presents fundamental concepts of immunology and role of the immune system in health and disease, the use of serological and antibody-based methods in the clinical lab. A review of the biological effects of immunologic reactions, antibody formation and interactions, and immunological specificity of normal and diseased cells and tissues will be discussed.</p></div></li> 
+<li><div style="text-align:justify"><p>	<strong>Immunology</strong>: This course presents fundamental concepts of immunology and role of the immune system in health and disease, the use of serological and antibody-based methods in the clinical lab. A review of the biological effects of immunologic reactions, antibody formation and interactions, and immunological specificity of normal and diseased cells and tissues will be discussed.</p></div></li> 
 </ul>
 
 <ul>
-<li><div style="text-align:justify"><p>	<strong>Molecular Genetics</strong>:This course discusses the genetic influences that affect the course of human development from reproduction through the prenatal, neonatal, pediatric, adolescent, and adults periods. Screening protocol, gene therapy, and new treatment modalities are covered including pharmacogenetics and epigenetics..</p></div></li> 
+<li><div style="text-align:justify"><p>	<strong>Molecular Genetics</strong>: This course discusses the genetic influences that affect the course of human development from reproduction through the prenatal, neonatal, pediatric, adolescent, and adults periods. Screening protocol, gene therapy, and new treatment modalities are covered including pharmacogenetics and epigenetics..</p></div></li> 
 </ul>
 
 #### Recent Workshops 
@@ -39,7 +39,7 @@ Find in this page information about
 <ul>
 <li><div style="text-align:justify"><p><strong>"Doing Science: from Start to Finish"</strong>. This workshop presented to high school students of the Thomas Armstrong High School, located in Ponce, Puerto Rico, which is a high school specialized in science and mathematics (<a href="https://friveramariani.github.io/DoingScienceWorkshops/">https://friveramariani.github.io/DoingScienceWorkshops/</a>).</p></div></li> 
 </ul>
-</ul>
+
 
 #### Published Reports in Science Education
 
