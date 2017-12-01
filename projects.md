@@ -16,10 +16,12 @@ title: Dr. Rivera-Mariani Current Projects
 
 **Big Data analysis in Biological Sciences and Public Health**
 [Differential in Gene Expression between Fetal and Adult Brains](https://github.com/friveramariani/genomic-data-science): In this genomic data science project, we are evaluated differences in gene expression between fetal and adult brains. Transcriptome sequencing data (known as RNA-seq) for this genomic data science project was sequenced on an Illumina platform from human post-mortem brains. The raw sequencing data and meta-data related to each brain sample was retrieved from a public database. The data was aligned, quality control performed on the alignments, and gene count levels of expression will be determined. With the aid of exploratory and fitting statistical models,  patterns of gene expression were identified between fetus and adult brains. Findings from this genomic data science project provided insights into genes differentially expressed between fetus and adult brains, and represents an example of reproducible research in genomic sciences.
+
 - [GitHub repository](https://github.com/friveramariani/GenomicDataScience_FetalAdultBrain)
 - [Find the PDF document here](https://www.researchgate.net/publication/311203295_Report_RNA-Seq_Data_Analysis_Worflow_to_Evaluate_Differential_Gene_Expression_between_Fetus_and_Adult_Brains_from_Publicly-Available_Data_as_a_Genomic_Data_Science_Demonstration_in_a_Upper_Division_Mi)
 
 [Example proteomic analysis of ovarian cancer](https://github.com/friveramariani/Proteomic-Examples): This example proteomic data analysis, performed in the Matlab computer language, analyzed SELDI-TOF mass spectrometry from blood samples of two groups: ovarian cancer  vs control group. In this example, Matlab scripts are presented to pre-process the data, generate plots of the groups' spectrograms as well as ranking features using a two-way t-statistic. The data analyzed in this example was obtained from the [FDA-NCI Clinical Proteomics Program](https://home.ccr.cancer.gov/ncifdaproteomics/ppatterns.asp).
+
 - [GitHub repository](https://github.com/friveramariani/Proteomic-Examples)
 - [PDF output](https://www.researchgate.net/publication/319103946_Proteomics_data_analysis_in_cancer_biology_with_Matlab)
 
