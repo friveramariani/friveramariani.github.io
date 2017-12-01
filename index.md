@@ -31,9 +31,9 @@ If you would like to collaborate in current and future projects, feel free to re
 <div class="contact-buttons" style="line-height:160%;margin-left:30px;margin-top:10px">
 <p>
 <a href="https://twitter.com/friveramariani" target="_blank" style="color:#515151;"><i class="fa fa-twitter-square" aria-hidden="true"></i> &nbsp; Twitter<br></a> 
-<a href="mailto:friveramariani@gmail.com" target="_blank" style="color:#515151;"><i class="fa fa-envelope" style="font-size:1em"></i> &nbsp; Email<br></a> 
-<a href="https://github.com/friveramariani" target="_blank" style="color:#515151;"><i class="fa fa-github" style="font-size:1em"></i> &nbsp; GitHub<br></a> 
-<a href="https://www.linkedin.com/in/friveramariani" target="_blank" style="color:#515151;"><i class="fa fa-linkedin" style="font-size:1em"></i> &nbsp; LinkedIn<br></a>
+<a href="mailto:friveramariani@gmail.com" target="_blank" style="color:#515151;"><i class="fa fa-envelope-o" aria-hidden="true"></i> &nbsp; Email<br></a> 
+<a href="https://github.com/friveramariani" target="_blank" style="color:#515151;"><i class="fa fa-github" aria-hidden="true"></i> &nbsp; GitHub<br></a> 
+<a href="https://www.linkedin.com/in/friveramariani" target="_blank" style="color:#515151;"><i class="fa fa-linkedin-square" aria-hidden="true"></i> &nbsp; LinkedIn<br></a>
 </p>
 </div>
 
