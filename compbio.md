@@ -44,6 +44,8 @@ Find in this page information about Computational Approaches in Biology and Data
 
 - [Github repository](https://github.com/friveramariani/capstone-project)
  
+---
+
 Other biological and non-biological data sciences 
 
 - [Find other Data Science Projects here](http://rpubs.com/friveramariani/dataproduct)
