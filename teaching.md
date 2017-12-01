@@ -46,11 +46,9 @@ Find in this page information about
 <ul>
 <li><div style="text-align:justify"><p><a href="http://dx.doi.org/10.13140/RG.2.2.31839.66721">Correct/Incorrect Ratio in Staining Techniques in Microbiology Lab</a>: This data analysis report evaluated the proportion of correct answers in two Microbiology Lab sections during a practical session of staining techniques: Gram stain, Acid-fast stain, Endospore stains At the moment of elaborating this report, I am currently teaching these two microbiology lab sessions at Miami Dade College. Students were given two unknown bacteria for which they had to implement the Gram stain, Acid-fast stain, and Endospore stain, in addition to describing the unknown bacteria's cell shape and arrangement. After the students submitted their answers, the data was gathered and organized with the following variables: microbiology lab course section (sections A and B to not disclosed the actual section number), table where they sit in the lab (each table has four students), gender, and responses (correct as 1, and incorrect as 0) answers in shape, cell arrangement, Gram stain, Acid-fast stain, and Endospore stain. Find the PDF <a href="https://www.researchgate.net/publication/317510497_CorrectIncorrect_Ratios_in_Staining_Techniques_in_Microbiology_Lab?channel=doi&linkId=593cb263aca272c4d992d2aa&showFulltext=true">here</a>.</p></div></li> 
 </ul>
-</ul>
 
 <ul>
 <li><div style="text-align:justify"><p><a href="http://rpubs.com/friveramariani/bsc1005_20163">Data Analysis in a General Education Biology Course after the First Summative</a>:This report converge a data analysis of the General Education course taught during the term summer term (2016-3) of the academic year 2016-2017. This course is administered to non-science majors, most of whom are freshman and sophomore students, in a web-enhanced format through Blackboard LearnTM at Miami Dade College. In this data analysis report, which was performed just after exam 1 was administered (out three to be administered in the course), addressed the following questions:</p></div></li> 
-</ul>
 </ul>
 
 - How does exam 1 scores compare to scores in formative assessments (quizzes, polling questions, and reading assignments)?
