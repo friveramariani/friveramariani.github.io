@@ -51,14 +51,14 @@ Find in this page information about
 <li><div style="text-align:justify"><p><a href="http://rpubs.com/friveramariani/bsc1005_20163">Data Analysis in a General Education Biology Course after the First Summative</a>:This report converge a data analysis of the General Education course taught during the term summer term (2016-3) of the academic year 2016-2017. This course is administered to non-science majors, most of whom are freshman and sophomore students, in a web-enhanced format through Blackboard LearnTM at Miami Dade College. In this data analysis report, which was performed just after exam 1 was administered (out three to be administered in the course), addressed the following questions:</p></div></li> 
 </ul>
 
-- How does exam 1 scores compare to scores in formative assessments (quizzes, polling questions, and reading assignments)?
-- How many students had a higher score in exam 1 compared to their mean Quizzes scores?
-- Which question, topic, bt, kd, and format had the lowest proportion of correct answers?
-- Is there a relationship between formative (quizzes, ra, reef) and exam 1?
-- If there was relationship, which formative assessment had more predictive power of the exam1 grades?
-- Is there a relationship between attendance and exam 1?
-- Is there a relationship between attendance and quizzes?
-- How does the proportion of corrects differ between assessments?  
+ + How does exam 1 scores compare to scores in formative assessments (quizzes, polling questions, and reading assignments)?
+ + How many students had a higher score in exam 1 compared to their mean Quizzes scores?
+ + Which question, topic, bt, kd, and format had the lowest proportion of correct answers?
+ + Is there a relationship between formative (quizzes, ra, reef) and exam 1?
+ + If there was relationship, which formative assessment had more predictive power of the exam1 grades?
+ + Is there a relationship between attendance and exam 1?
+ + Is there a relationship between attendance and quizzes?
+ + How does the proportion of corrects differ between assessments?  
 
 <ul>
 <li><div style="text-align:justify"><p><a href="http://rpubs.com/friveramariani/genbioed_survey">Data Analysis on a Survey Administered to Students on the First Day of Class in a General Education Biology Course</a>: This data analysis report evaluates the responses of a survey, which was administered to students (through Blackboard Learn) on the first day of the General Education Biology (BSC1005) course at Miami Dade College during the 2016-2 term (Fall 2016-2017 semester). After students completed the survey, which contain 8 questions (refer to Questions in the Survey below), the raw data was downloaded from Blackboard Learn into a local directory. The file with the raw data was saved as Microsoft ExcelTM file. For questions with character (i.e. word) responses, such as question 1, 7 and 8, the most frequent words as well as the total words per student’s responses were determined. For the remaining questions, the proportion of answers was determined.</p></div></li> 
