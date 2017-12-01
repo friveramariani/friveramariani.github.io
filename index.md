@@ -24,4 +24,17 @@ title: Dr. Félix E. Rivera-Mariani
 
 [Courses and Workshops I've have taught](http://www.friveram.com/teaching)
 
+## Collaboration 
+
+If you would like to collaborate in current and future projects, feel free to reach out at:
+
+<div class="contact-buttons" style="line-height:160%;margin-left:30px;margin-top:10px">
+<p>
+<a href="https://twitter.com/friveramariani" target="_blank" style="color:#515151;"><i class="fa fa-twitter"></i> &nbsp; Twitter<br></a> 
+<a href="mailto:friveramariani@gmail.com" target="_blank" style="color:#515151;"><i class="fa fa-envelope" style="font-size:1em"></i> &nbsp; Email<br></a> 
+<a href="https://github.com/friveramariani" target="_blank" style="color:#515151;"><i class="fa fa-github" style="font-size:1em"></i> &nbsp; GitHub<br></a> 
+<a href="https://www.linkedin.com/in/felixeriveramariani" target="_blank" style="color:#515151;"><i class="fa fa-linkedin" style="font-size:1em"></i> &nbsp; LinkedIn<br></a>
+</p>
+</div>
+
 <font size="1">&#169; Felix E. Rivera-Mariani, PhD 2017 <i>The contents of this website reflect the views of the author and does not represent the views of my institution.</i>.</font>
