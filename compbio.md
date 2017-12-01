@@ -6,12 +6,13 @@ title: Dr. Rivera-Mariani Computational Approaches
 
 ## Computational Approaches
 
-Find in this page information about Computational Approaches in Biology and Data Science employing R, Python, Matlab, including:
+Find in this page information about Computational Approaches in Biology and Data Science employing R, Python, Matlab, including computational approaches...
 
-***Computational approaches***
-- big data analysis in biological sciences (computational biology)
+- for big data analysis in biological sciences (computational biology)
 - to monitor students' learning and performance in the classroom
 - to implement machine learning methods
+
+---
 
 - [Proteomic analysis in cancer biology with Matlab](https://www.researchgate.net/publication/319103946_Proteomics_data_analysis_in_cancer_biology_with_Matlab?_iepl%5BviewId%5D=QxJv4keKNDURmsy78YMwoLJQ&_iepl%5BprofilePublicationItemVariant%5D=default&_iepl%5Bcontexts%5D%5B0%5D=prfpi&_iepl%5BtargetEntityId%5D=PB%3A319103946&_iepl%5BinteractionType%5D=publicationTitle): This example proteomic data analysis, performed in the [Matlab computer language](https://www.mathworks.com/), analyzed SELDI-TOF mass spectrometry from blood samples of two groups: ovarian cancer  vs control group. In this example, Matlab scripts are presented to pre-process the data, generate plots of the groups' spectrograms as well as ranking features using a two-way t-statistic. The data analyzed in this example was obtained from the [FDA-NCI Clinical Proteomics Program](https://home.ccr.cancer.gov/ncifdaproteomics/ppatterns.asp).
 	+ [Github repository](https://github.com/friveramariani/Proteomic-Examples)
