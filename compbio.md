@@ -44,7 +44,7 @@ Find in this page information about Computational Approaches in Biology and Data
 - <a href="http://dx.doi.org/10.13140/RG.2.2.31839.66721" target="_blank">Correct/Incorrect Ratio in Staining Techniques in Microbiology Lab</a>
 - <a href="http://dx.doi.org/10.13140/RG.2.2.30379.85281" target="_blank">Data Analysis in a General Education Biology Course after the First Summative Assessment</a>
 - <a href="http://dx.doi.org/10.13140/RG.2.2.16545.81763" target="_blank">Text Mining R Code to Determine Most Frequent Words among Students' Hypotheses</a>
-- <a href="https://www.researchgate.net/profile/Felix_Rivera-Mariani/project/Applying-Data-Science-Approaches-in-Biological-Sciences-Classrooms/attachment/58ba3eb082999cd4be0a5445/AS:468039633248256@1488600752381/download/Prop_correct_logit.pdf?context=ProjectUpdatesLog" target="_blank">An R function to generate proportions and logistic regression models of correct answers based on questions' topics, level of difficult, and question format</a>
+- <a href="https://www.researchgate.net/profile/Felix_Rivera-Mariani/project/Applying-Data-Science-Approaches-in-Biological-Sciences-Classrooms/attachment/58ba3eb082999cd4be0a5445/AS:468039633248256@1488600752381/download/Prop_correct_logit.pdf?context=ProjectUpdatesLog" target="_blank">An R function to generate proportions and logistic regression for of correct answers</a>
 - <a href="https://www.researchgate.net/project/Applying-Data-Science-Approaches-in-Biological-Sciences-Classrooms" target="_blank">Data Analysis on a Survey Administered to Students on the 1st Day of Class in a General Education Biology Course</a>
 
 ---
