@@ -26,14 +26,14 @@ Find in this page information about Computational Approaches in Biology and Data
 <div style="text-align:justify"><p><a href="https://github.com/friveramariani/Proteomic-Examples" target="_blank">Example of Proteomic Analysis of Ovarian Cancer</a>: This example proteomic data analysis, performed in the <a href="https://www.mathworks.com/products/matlab.html" target="_blank">Matlab</a> computer language, analyzed SELDI-TOF mass spectrometry from blood samples of two groups: ovarian cancer  vs control group. In this example, Matlab scripts are presented to pre-process the data, generate plots of the groups' spectrograms as well as ranking features using a two-way t-statistic. The data analyzed in this example was obtained from the <a href="https://home.ccr.cancer.gov/ncifdaproteomics/ppatterns.asp">FDA-NCI Clinical Proteomics Program</a>.</p></div> 
 
 - <a href="https://github.com/friveramariani/Proteomic-Examples" target="_blank">GitHub repository</a>
-- <a href="https://www.researchgate.net/publication/319103946_Proteomics_data_analysis_in_cancer_biology_with_Matlab" target="_blank"></a>
+- <a href="https://www.researchgate.net/publication/319103946_Proteomics_data_analysis_in_cancer_biology_with_Matlab" target="_blank">PDF Output</a>
 
 ---
 
-<div style="text-align:justify"><p><a href="https://github.com/friveramariani/genomic-data-science" target="_b">Differential in Gene Expression between Fetal and Adult Brains</a>: In this genomic data science project, the goal was to evaluate differences in gene expression between fetal and adult brains. Transcriptome sequencing data (known as <a href="https://en.wikipedia.org/wiki/RNA-Seq" target="_blank">RNA-seq</a>) for this genomic data science project was sequenced on an Illumina platform from human post-mortem brains. The raw sequencing data and meta-data related to each brain sample was retrieved from a public database. The data was aligned, quality control performed on the alignments, and gene count levels of expression quantified. With the aid of exploratory and fitting statistical models,  patterns of gene expression were identified between fetus and adult brains. Findings from this genomic data science project provided insights into genes differentially expressed between fetus and adult brains that helps understand human development, and represents an example of reproducible research in genomic sciences.</p></div> 
+<div style="text-align:justify"><p><a href="https://github.com/friveramariani/genomic-data-science" target="_blank">Differential in Gene Expression between Fetal and Adult Brains</a>: In this genomic data science project, the goal was to evaluate differences in gene expression between fetal and adult brains. Transcriptome sequencing data (known as <a href="https://en.wikipedia.org/wiki/RNA-Seq" target="_blank">RNA-seq</a>) for this genomic data science project was sequenced on an Illumina platform from human post-mortem brains. The raw sequencing data and meta-data related to each brain sample was retrieved from a public database. The data was aligned, quality control performed on the alignments, and gene count levels of expression quantified. With the aid of exploratory and fitting statistical models,  patterns of gene expression were identified between fetus and adult brains. Findings from this genomic data science project provided insights into genes differentially expressed between fetus and adult brains that helps understand human development, and represents an example of reproducible research in genomic sciences.</p></div> 
 
 - <a href="https://github.com/friveramariani/GenomicDataScience_FetalAdultBrain" target="_blank">GitHub repository</a>
-- <a href="https://www.researchgate.net/publication/311203295_Report_RNA-Seq_Data_Analysis_Worflow_to_Evaluate_Differential_Gene_Expression_between_Fetus_and_Adult_Brains_from_Publicly-Available_Data_as_a_Genomic_Data_Science_Demonstration_in_a_Upper_Division_Mi" target="_blank">Find the PDF document here</a>
+- <a href="https://www.researchgate.net/publication/311203295_Report_RNA-Seq_Data_Analysis_Worflow_to_Evaluate_Differential_Gene_Expression_between_Fetus_and_Adult_Brains_from_Publicly-Available_Data_as_a_Genomic_Data_Science_Demonstration_in_a_Upper_Division_Mi" target="_blank">PDF Output</a>
 
 ---
 
@@ -51,14 +51,14 @@ Find in this page information about Computational Approaches in Biology and Data
 
 <div style="text-align:justify"><p><a href="http://rpubs.com/friveramariani/jhdscapstone" target="_blank">Shinny app to predict users' next word</a>: This projects describes  the pitch for a shiny app elaborated to predict next-words followings user's words input.</p></div>
 
-- <a href="" target="_blank"> [Github repository](https://github.com/friveramariani/capstone-project)
+- <a href="https://github.com/friveramariani/capstone-project" target="_blank">Github repository</a>
  
 ---
 
 Other biological and non-biological data sciences 
 
-- [Find other Data Science Projects here](http://rpubs.com/friveramariani/dataproduct)
-- [Find Biological and non-Biological Data Science codes here](https://github.com/friveramariani)
+- <a href="http://rpubs.com/friveramariani/dataproduct" target="_blank">Find other Data Science Projects here</a>
+- <a href="https://github.com/friveramariani" target="_blank">Find Biological and non-Biological Data Science codes here</a>
 
 [**Click here to return to the Home Page**](http://www.friveram.com/)
 
