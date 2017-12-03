@@ -42,8 +42,8 @@ Find in this page information about Computational Approaches in Biology and Data
 
 - [Correct/Incorrect Ratio in Staining Techniques in Microbiology Lab](http://dx.doi.org/10.13140/RG.2.2.31839.66721)
 - [Data Analysis in a General Education Biology Course after the First Summative Assessment](http://dx.doi.org/10.13140/RG.2.2.30379.85281)
-- [An R function to generate proportions and logistic regression models of correct answers based on questions' topics, level of difficult, and question format](http://+n%20r%20function%20to%20generate%20proportions%20and%20logistic%20regression%20models%20of%20correct%20answers%20based%20on%20questions%27%20topic%2C%20levels%20of%20+ifficulty%2C%20and%20format./)
 - [Text Mining R Code to Determine Most Frequent Words among Students' Hypotheses](http://dx.doi.org/10.13140/RG.2.2.16545.81763)
+- [An R function to generate proportions and logistic regression models of correct answers based on questions' topics, level of difficult, and question format](http://+n%20r%20function%20to%20generate%20proportions%20and%20logistic%20regression%20models%20of%20correct%20answers%20based%20on%20questions%27%20topic%2C%20levels%20of%20+ifficulty%2C%20and%20format./)
 - [Data Analysis on a Survey Administered to Students on the 1st Day of Class in a General Education Biology Course](https://www.researchgate.net/project/Applying-Data-Science-Approaches-in-Biological-Sciences-Classrooms)
 
 ---
