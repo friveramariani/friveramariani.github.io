@@ -1,7 +1,6 @@
 ---
 title: Dr. Rivera-Mariani's Publications
 ---
-
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-103557590-4"></script>
 <script>
