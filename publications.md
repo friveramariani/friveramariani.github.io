@@ -60,6 +60,8 @@ need for further studies. <i>Aerobiologia</i>. 2012: 28(2): 83-97. <a href="http
 <li><div style="text-align:justify"><p>Quintero E, <strong>Rivera-Mariani FE</strong>, and Bolaños-Rosero B. Analysis of Environmental Factors and Their Effects on Fungal Spores and Pollen in the Atmosphere of a Tropical Urban Area (San Juan, Puerto Rico). <i>Aerobiologia</i>. 2010; 26(2): 113-124. <a href="https://www.researchgate.net/publication/226034160_Analysis_of_environmental_factors_and_their_effects_on_fungal_spores_in_the_atmosphere_of_a_tropical_urban_area_San_Juan_Puerto_Rico">Click here for the PDF</a>.</p></div></li>   
 </ul>
 
+<i class="fa fa-file-pdf-o" style="font-size:48px;color:red"></i>
+
 Find more of my publications [**here**](https://www.researchgate.net/profile/Felix_Rivera-Mariani/publications)
 
 [**Click here to return to the Home Page**](https://www.friveram.com/)
