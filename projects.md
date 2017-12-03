@@ -10,11 +10,14 @@ title: Dr. Rivera-Mariani Current Projects
 
 ---
 
-<div style="text-align:justify"><p><a href="https://friveramariani.github.io/RA_RD/">Rheumatoid Arthritis and Air Pollution</a>: This collaboration, between Dr. Rivera-Mariani's and Dr. Elshabrawy's research groups, seeks to address the immunological, biochemical, and environmental links between two common chronic diseases of the Western hemisphere: rheumatoid arthritis and chronic respiratory diseases (e.g. asthma, COPD, allergic rhinitis, among others).</p></div>   
+<div style="text-align:justify"><p><a href="https://friveramariani.github.io/RA_RD/">Rheumatoid Arthritis and Air Pollution</a>: This collaboration, between <a href="https://friveramariani.github.io/RIPL_Effect/">Dr. Rivera-Mariani's</a> and <a href'="https://www.linkedin.com/in/hatem-elshabrawy-00a78a62/">Dr. Elshabrawy's</a> research groups, seeks to address the immunological, biochemical, and environmental links between two common chronic diseases of the Western hemisphere: rheumatoid arthritis and chronic respiratory diseases (e.g. asthma, COPD, allergic rhinitis, among others).</p></div>   
 
 ---
 
 **Big Data analysis in Biological Sciences and Public Health**
+
+<div style="text-align:justify"><p>. Understanding the biological mechanisms that participate in human disease and designing intervention strategies to promote better human helth relies on evidence-based approaches. <a href="https://en.wikipedia.org/wiki/Big_data">Big Data analysis</a> in biological sciences aligns with one of the requirements of the <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4589117/">Bradford Hill</a> criteria for disease causation. Thefore, in this category of projects, I share <b>computational approaches</b> applied into the interphase of biological sciences to understand human health, and environmental health sciences approaches to prevent or limit incidence of human disease.</p></div> 
+
 <div style="text-align:justify"><p><a href="https://github.com/friveramariani/genomic-data-science">Differential in Gene Expression between Fetal and Adult Brains</a>: In this genomic data science project, we are evaluated differences in gene expression between fetal and adult brains. Transcriptome sequencing data (known as RNA-seq) for this genomic data science project was sequenced on an Illumina platform from human post-mortem brains. The raw sequencing data and meta-data related to each brain sample was retrieved from a public database. The data was aligned, quality control performed on the alignments, and gene count levels of expression will be determined. With the aid of exploratory and fitting statistical models,  patterns of gene expression were identified between fetus and adult brains. Findings from this genomic data science project provided insights into genes differentially expressed between fetus and adult brains, and represents an example of reproducible research in genomic sciences.</p></div> 
 
 - [GitHub repository](https://github.com/friveramariani/GenomicDataScience_FetalAdultBrain)
