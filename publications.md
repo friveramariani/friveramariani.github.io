@@ -11,8 +11,7 @@ title: Dr. Rivera-Mariani's Publications
 </ul>
 
 <ul>
-<li><div style="text-align:justify"><p>	Vila-Herester F, <strong>Rivera-Mariani FE</strong>, Bolanos-Rosero B. Serological reactivity and IgE-binding polypeptides to Ganoderma applanatum Cruse Spore Cytoplasmic Extract in Puerto Rico Subjects. <i>Int Arch Allergy Immunol</i>. 2017; 172:139–149.
-<a href="https://www.researchgate.net/publication/312192282_Serological_Reactivity_and_Identification_of_IgE-Binding_Polypeptides_of_Ganoderma_applanatum_Crude_Spore_Cytoplasmic_Extract_in_Puerto_Rican_Subjects" target="_blank"><i class="fa fa-file-pdf-o" style="font-size:48px;color:red"></i></a></p></div></li>  
+<li><div style="text-align:justify"><p>	Vila-Herester F, <strong>Rivera-Mariani FE</strong>, Bolanos-Rosero B. Serological reactivity and IgE-binding polypeptides to Ganoderma applanatum Cruse Spore Cytoplasmic Extract in Puerto Rico Subjects. <i>Int Arch Allergy Immunol</i>. 2017; 172:139–149.<a href="https://www.researchgate.net/publication/312192282_Serological_Reactivity_and_Identification_of_IgE-Binding_Polypeptides_of_Ganoderma_applanatum_Crude_Spore_Cytoplasmic_Extract_in_Puerto_Rican_Subjects">Click here for the PDF</a>.</p></div></li>  
 </ul>
 
 <ul>
