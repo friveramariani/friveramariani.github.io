@@ -60,30 +60,6 @@ need for further studies. <i>Aerobiologia</i>. 2012: 28(2): 83-97. <a href="http
 <li><div style="text-align:justify"><p>Quintero E, <strong>Rivera-Mariani FE</strong>, and Bolaños-Rosero B. Analysis of Environmental Factors and Their Effects on Fungal Spores and Pollen in the Atmosphere of a Tropical Urban Area (San Juan, Puerto Rico). <i>Aerobiologia</i>. 2010; 26(2): 113-124. <a href="https://www.researchgate.net/publication/226034160_Analysis_of_environmental_factors_and_their_effects_on_fungal_spores_in_the_atmosphere_of_a_tropical_urban_area_San_Juan_Puerto_Rico">Click here for the PDF</a>.</p></div></li>   
 </ul>
 
-<html>
-<head>
-<title>Font Awesome Icons</title>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-</head>
-<body>
-
-<h1>fa fa-file-pdf-o</h1>
-
-<i class="fa fa-file-pdf-o"></i>
-<i class="fa fa-file-pdf-o" style="font-size:24px"></i>
-<i class="fa fa-file-pdf-o" style="font-size:36px"></i>
-<i class="fa fa-file-pdf-o" style="font-size:48px;color:red"></i>
-<br>
-
-<p>Used on a button:</p>
-<button style="font-size:24px">Button <i class="fa fa-file-pdf-o"></i></button>
-
-<p>Unicode:</p>
-<i style="font-size:24px" class="fa">&#xf1c1;</i>
-
-</body>
-</html> 
 
 Find more of my publications [**here**](https://www.researchgate.net/profile/Felix_Rivera-Mariani/publications)
 
