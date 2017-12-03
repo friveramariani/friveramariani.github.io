@@ -89,7 +89,7 @@ title: Dr. Rivera-Mariani's Credentials
 + <a href="https://www.coursera.org/account/accomplishments/certificate/2EK6888BHMEU" target="_blank">Experimental Methods in Systems Biology</a>
 + <a href="https://www.coursera.org/account/accomplishments/certificate/Y9TWGCY6G8Q5" target="_blank">Network Analysis in Systems Biology</a>
 + <a href="https://www.coursera.org/account/accomplishments/certificate/FJGE3VC5LSL6" target="_blank">Dynamical Modeling Methods for Systems Biology</a>
-+ <a href="https://www.coursera.org/account/accomplishments/records/PYB756UTBP8R" target="_blank">[Integrated Analysis in Systems Biology</a>
++ <a href="https://www.coursera.org/account/accomplishments/records/PYB756UTBP8R" target="_blank">Integrated Analysis in Systems Biology</a>
 + <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/PAK4FP7LG5GE" target="_blank">Systems Biology and Biotechnology Capstone</a>
 
 #### Bioinformatics Specialization 
@@ -100,7 +100,7 @@ title: Dr. Rivera-Mariani's Credentials
 + <a href="https://www.coursera.org/account/accomplishments/certificate/NMVPF7ZT29YL" target="_blank">Bioinformatics III (Comparing Genes, Proteins, and Genomes)</a>
 + <a href="https://www.coursera.org/account/accomplishments/certificate/VGB9A2SQKKUL" target="_blank">Bioinformatics IV (Molecular Evolution)</a>
 + <a href="https://felix-riveramariani-ms9j.squarespace.com/s/Pages-from-ApplicationPackageBarryBiomed_RiveraMariani.pdf" target="_blank">Bioinformatics V (Genomic Data Science and Clustering)</a>
-+ <a href="https://www.coursera.org/account/accomplishments/certificate/39X9PLSJGS2B" target="_blank">[Bioinformatics VI (Finding Mutations in DNA and Proteins)</a>
++ <a href="https://www.coursera.org/account/accomplishments/certificate/39X9PLSJGS2B" target="_blank">Bioinformatics VI (Finding Mutations in DNA and Proteins)</a>
 + Bioinformatics Capstone (Big Data in Biology)
 
 [**Click here to return to the Home Page**](http://www.friveram.com/)
