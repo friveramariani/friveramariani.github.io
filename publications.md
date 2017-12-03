@@ -72,6 +72,6 @@ need for further studies. <i>Aerobiologia</i>. 2012: 28(2): 83-97. <a href="http
 
 Find more of my publications [**here**](https://www.researchgate.net/profile/Felix_Rivera-Mariani/publications)
 
-[**Click here to return to the Home Page**](https://www.friveram.com/)
+[**Click here to return to the Home Page**](http://www.friveram.com/)
 
 <font size="1">&#169; Felix E. Rivera-Mariani, PhD 2017 <i>The contents of this website reflect the views of the author and does not represent the views of my institution.</i>.</font>
