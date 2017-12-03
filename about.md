@@ -15,7 +15,7 @@ title: Dr. Rivera-Mariani's Credentials
 
 ## CV, Fellowships, and Specializations
 
-- [Updated CV](https://github.com/friveramariani/friveramariani.github.io/blob/master/CV/CV_FE_RiveraMariani.pdf)
+- <a href="https://github.com/friveramariani/friveramariani.github.io/blob/master/CV/CV_FE_RiveraMariani.pdf" target="_blank">Updated CV</a>
 
 - **Postdoctoral Fellowships at the Bloomberg School of Public Health of the Johns Hopkins University**
 <img src="images/JHSPH_Fellowship.jpg" alt="Science Teaching Fellowship at ASM" class="inline"/>
@@ -30,9 +30,9 @@ title: Dr. Rivera-Mariani's Credentials
 ***Find below links to certificates of completed Specializations Statistics and Data Science***
 
 #### Public Health-Related Statistical Training
-+ [Statistical Reasoning for Public Health 1:  Estimation, Inference, & Interpretation](https://felix-riveramariani-ms9j.squarespace.com/s/2016-03-30_14-19-41.jpg) (Johns Hopkins University on www.coursera.org)
-+ [Statistical Reasoning for Public Health II](https://www.coursera.org/account/accomplishments/certificate/ULDLF8DNRNBK): Regression Methods (Johns Hopkins University on www.coursera.org)
-+ [Epidemiology: The Basic Science of Public Health](https://felix-riveramariani-ms9j.squarespace.com/s/2016-03-30_14-15-15.jpg) (University of North Carolina on www.coursera. org)
++ <a href="https://felix-riveramariani-ms9j.squarespace.com/s/2016-03-30_14-19-41.jpg" target="_blank">Statistical Reasoning for Public Health 1:  Estimation, Inference, & Interpretation</a> (Johns Hopkins University on <a href="www.coursera.org" target="_blank">www.coursera.org</a>)
++ <a href="https://www.coursera.org/account/accomplishments/certificate/ULDLF8DNRNBK" target="_blank">Statistical Reasoning for Public Health II</a> (Johns Hopkins University on <a href="www.coursera.org" target="_blank">www.coursera.org</a>)
++ <a href="https://felix-riveramariani-ms9j.squarespace.com/s/2016-03-30_14-15-15.jpg" target="_blank">Epidemiology: The Basic Science of Public Health</a> (University of North Carolina on <a href="www.coursera.org" target="_blank">www.coursera.org</a>)
 
 #### Data Science Specialization 
 (Johns Hopkins University on <a href="www.coursera.org" target="_blank">www.coursera.org</a>)
@@ -73,24 +73,24 @@ title: Dr. Rivera-Mariani's Credentials
 #### Genomic Data Science Specialization
 (Johns Hopkins University on <a href="www.coursera.org" target="_blank">www.coursera.org</a>)
 
-+ <a href="https://www.coursera.org/account/accomplishments/certificate/87PMNJZ8K4WM" target="_blank">[Introduction to Genomic Technologies</a>
-+ <a href="https://www.coursera.org/account/accomplishments/certificate/99PR74FA3AJ5" target="_blank">[Genomic Data Science with Galaxy</a>
-+ <a href="https://www.coursera.org/account/accomplishments/certificate/85A9MYCREQP4" target="_blank">[Python for Genomic Data Science</a>
-+ <a href="https://www.coursera.org/account/accomplishments/certificate/V6BACJBPHK56" target="_blank">[Algorithms for DNA Sequencing</a>
-+ <a href="https://www.coursera.org/account/accomplishments/certificate/HZS2UBV5EPUB" target="_blank">[Bioconductor for Genomic Data Science</a>
-+ <a href="https://www.coursera.org/account/accomplishments/certificate/LLDYTFCEC98P" target="_blank">[Statistics for Genomic Data Science</a>
-+ <a href="https://www.coursera.org/account/accomplishments/certificate/768YVZ2MP88A" target="_blank">[Command Line Tools for Genomic Data</a>
-+ <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/A2GJ4APKZB2E" target="_blank">[Genomic Data Science Capstone</a>
++ <a href="https://www.coursera.org/account/accomplishments/certificate/87PMNJZ8K4WM" target="_blank">Introduction to Genomic Technologies</a>
++ <a href="https://www.coursera.org/account/accomplishments/certificate/99PR74FA3AJ5" target="_blank">Genomic Data Science with Galaxy</a>
++ <a href="https://www.coursera.org/account/accomplishments/certificate/85A9MYCREQP4" target="_blank">Python for Genomic Data Science</a>
++ <a href="https://www.coursera.org/account/accomplishments/certificate/V6BACJBPHK56" target="_blank">Algorithms for DNA Sequencing</a>
++ <a href="https://www.coursera.org/account/accomplishments/certificate/HZS2UBV5EPUB" target="_blank">Bioconductor for Genomic Data Science</a>
++ <a href="https://www.coursera.org/account/accomplishments/certificate/LLDYTFCEC98P" target="_blank">Statistics for Genomic Data Science</a>
++ <a href="https://www.coursera.org/account/accomplishments/certificate/768YVZ2MP88A" target="_blank">Command Line Tools for Genomic Data</a>
++ <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/A2GJ4APKZB2E" target="_blank">Genomic Data Science Capstone</a>
 
 #### Systems Biology and Biotechnology Specialization 
 (Icahn School of Medicine at Mount Sinai on <a href="www.coursera.org" target="_blank">www.coursera.org</a>)
 
-+ <a href="https://www.coursera.org/account/accomplishments/certificate/XJA38ZQCN2DD" target="_blank">[Introduction to Systems Biology</a>
-+ <a href="https://www.coursera.org/account/accomplishments/certificate/2EK6888BHMEU" target="_blank">[Experimental Methods in Systems Biology</a>
-+ <a href="https://www.coursera.org/account/accomplishments/certificate/Y9TWGCY6G8Q5" target="_blank">[Network Analysis in Systems Biology</a>
-+ <a href="https://www.coursera.org/account/accomplishments/certificate/FJGE3VC5LSL6" target="_blank">[Dynamical Modeling Methods for Systems Biology</a>
++ <a href="https://www.coursera.org/account/accomplishments/certificate/XJA38ZQCN2DD" target="_blank">Introduction to Systems Biology</a>
++ <a href="https://www.coursera.org/account/accomplishments/certificate/2EK6888BHMEU" target="_blank">Experimental Methods in Systems Biology</a>
++ <a href="https://www.coursera.org/account/accomplishments/certificate/Y9TWGCY6G8Q5" target="_blank">Network Analysis in Systems Biology</a>
++ <a href="https://www.coursera.org/account/accomplishments/certificate/FJGE3VC5LSL6" target="_blank">Dynamical Modeling Methods for Systems Biology</a>
 + <a href="https://www.coursera.org/account/accomplishments/records/PYB756UTBP8R" target="_blank">[Integrated Analysis in Systems Biology</a>
-+ <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/PAK4FP7LG5GE" target="_blank">[Systems Biology and Biotechnology Capstone</a>
++ <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/PAK4FP7LG5GE" target="_blank">Systems Biology and Biotechnology Capstone</a>
 
 #### Bioinformatics Specialization 
 (University of California at San Diego, on <a href="www.coursera.org" target="_blank">www.coursera.org</a>)
