@@ -2,6 +2,16 @@
 title: Dr. Rivera-Mariani's Publications
 ---
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-103557590-4"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-103557590-4');
+</script>
+
 [**Home Page**](http://www.friveram.com/) | [**Credentials**](http://www.friveram.com/about) | [**Projects**](http://www.friveram.com/projects) | [**Computational**](http://www.friveram.com/compbio) | [**Teaching**](http://www.friveram.com/teaching) 
 
 ## Recent Publications
