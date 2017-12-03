@@ -34,6 +34,7 @@ Find in this page information about Computational Approaches in Biology and Data
 
 - [GitHub repository](https://github.com/friveramariani/GenomicDataScience_FetalAdultBrain)
 - [Find the PDF document here](https://www.researchgate.net/publication/311203295_Report_RNA-Seq_Data_Analysis_Worflow_to_Evaluate_Differential_Gene_Expression_between_Fetus_and_Adult_Brains_from_Publicly-Available_Data_as_a_Genomic_Data_Science_Demonstration_in_a_Upper_Division_Mi)
+
 ---
 
 <div style="text-align:justify"><p><a href="https://www.researchgate.net/project/Applying-Data-Science-Approaches-in-Biological-Sciences-Classrooms?_esc=profileProjectCards&_sg=-XO68eEemQp3HNPS0KrOL2bjqDRIVkgGT7tgZU86f--Ied0fnhhIqTcwhregbtQPzGDLrd44MLrwDWCl0B9P9g.8bzPwU4Hw8H95Si2ifVxs30Y2D9G1NLXAWevaI20Ye1Iypn9hFDr6yxcGOegAuWT.eGebw20oCHpG6d88csNnnpo5djacTogpfurkn2o907J2sJAHKab4PoVXM_QRiQey&_viewIds%5B0%5D=Mfbk27SkHZVlqyAKuqvg1wx5&_viewIds%5B1%5D=6b1SML1ge7lBb56ZPFI5tTcU">Applying Data Science Approaches in Biological Sciences Classrooms</a>: Evidence-based decisions in the classroom are key for us as professor to be able to implement adjustments in students' learning, including in biological sciences courses. In this project, I'll be sharing data science approaches, projects, and peer-review publications, that could benefit making pedagogical adjustments in your classrooms.</p></div> 
