@@ -57,7 +57,7 @@ title: Dr. Rivera-Mariani's Credentials
 + <a href="https://www.coursera.org/account/accomplishments/certificate/4C939ZY6WD29" target="_blank">Data Science in Real Life</a>
 + <a href="https://www.coursera.org/account/accomplishments/certificate/42V4U2XH77PS" target="_blank">Executive Data Science Capstone</a>
 
-### Mastering Software Development in R 
+#### Mastering Software Development in R 
 (Johns Hopkins University on <a href="www.coursera.org" target="_blank">www.coursera.org</a>)
 
 + <a href="https://www.coursera.org/account/accomplishments/certificate/JP664YGV9Y9J" target="_blank">R Programming Environment</a>
