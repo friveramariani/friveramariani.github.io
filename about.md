@@ -30,9 +30,9 @@ title: Dr. Rivera-Mariani's Credentials
 ***Find below links to certificates of completed Specializations Statistics and Data Science***
 
 #### Public Health-Related Statistical Training
-+ <a href="https://felix-riveramariani-ms9j.squarespace.com/s/2016-03-30_14-19-41.jpg" target="_blank">Statistical Reasoning for Public Health 1:  Estimation, Inference, & Interpretation</a> (Johns Hopkins University on <a href="www.coursera.org" target="_blank">www.coursera.org</a>)
++ <a href="https://felix-riveramariani-ms9j.squarespace.com/s/2016-03-30_14-19-41.jpg" target="_blank">Statistical Reasoning for Public Health I</a> (Johns Hopkins University on <a href="www.coursera.org" target="_blank">www.coursera.org</a>)
 + <a href="https://www.coursera.org/account/accomplishments/certificate/ULDLF8DNRNBK" target="_blank">Statistical Reasoning for Public Health II</a> (Johns Hopkins University on <a href="www.coursera.org" target="_blank">www.coursera.org</a>)
-+ <a href="https://felix-riveramariani-ms9j.squarespace.com/s/2016-03-30_14-15-15.jpg" target="_blank">Epidemiology: The Basic Science of Public Health</a> (University of North Carolina on <a href="www.coursera.org" target="_blank">www.coursera.org</a>)
++ <a href="https://felix-riveramariani-ms9j.squarespace.com/s/2016-03-30_14-15-15.jpg" target="_blank">Epidemiology</a> (University of North Carolina on <a href="www.coursera.org" target="_blank">www.coursera.org</a>)
 
 #### Data Science Specialization 
 (Johns Hopkins University on <a href="www.coursera.org" target="_blank">www.coursera.org</a>)
