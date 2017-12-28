@@ -57,7 +57,7 @@ Find in this page information about
 </ul>
 
 <ul>
-<li><div style="text-align:justify"><p><a href="http://rpubs.com/friveramariani/bsc1005_20163" target="_blank">Data Analysis in a General Education Biology Course after the First Summative</a>:This report converge a data analysis of the General Education course taught during the term summer term (2016-3) of the academic year 2016-2017. This course is administered to non-science majors, most of whom are freshman and sophomore students, in a web-enhanced format through Blackboard Learn<sup>TM/<sup> at Miami Dade College. In this data analysis report, which was performed just after exam 1 was administered (out three to be administered in the course), addressed the relationships between formative (e.g. short quizzes, polling questions, and discussion preparation assignments) and the first exam. </p></div></li> 
+<li><div style="text-align:justify"><p><a href="http://rpubs.com/friveramariani/bsc1005_20163" target="_blank">Data Analysis in a General Education Biology Course after the First Summative</a>:This report converge a data analysis of the General Education course taught during the term summer term (2016-3) of the academic year 2016-2017. This course is administered to non-science majors, most of whom are freshman and sophomore students, in a web-enhanced format through Blackboard Learn<sup>TM/</sup> at Miami Dade College. In this data analysis report, which was performed just after exam 1 was administered (out three to be administered in the course), addressed the relationships between formative (e.g. short quizzes, polling questions, and discussion preparation assignments) and the first exam. </p></div></li> 
 </ul>
 
 <ul>
