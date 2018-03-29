@@ -1,4 +1,4 @@
-Dr. Rivera-Mariani's Credentials, Publications, Projects, and Science Teaching
+Dr. Rivera-Mariani's Credentials, Publications, Projects, Science Teaching, and Computational Data Sciences
 
 ## Summary
 Find in this repository information about **Dr. Rivera-Mariani's** Credentials, Publications, Projects, and Science Teaching
