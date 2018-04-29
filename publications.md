@@ -16,7 +16,7 @@ title: Dr. Rivera-Mariani's Publications
 ## Recent Publications
 
 <ul>
-<li><div style="text-align:justify"><p>	González de Leon J, Gonález Méndez R., Cadilla Vázquez CL, <strong>Rivera-Mariani FE</strong>, Bolaños-Rosero, B. Serological Reactivity and Identification of Immunoglobulin E – Binding Proteins of Xerophilic Fungus Aspergillus penicilloides Crude Mycelial Mat Extract in Puerto Rican Atopic Subjects. <i>Int Arch Allergy Immunol</i>. DOI: 10.1159/000484898.</p></div></li> 
+<li><div style="text-align:justify"><p>	González de Leon J, Gonález Méndez R., Cadilla Vázquez CL, <strong>Rivera-Mariani FE</strong>, Bolaños-Rosero, B. Serological Reactivity and Identification of Immunoglobulin E – Binding Proteins of Xerophilic Fungus Aspergillus penicilloides Crude Mycelial Mat Extract in Puerto Rican Atopic Subjects. <i>Int Arch Allergy Immunol</i>. 2018. 175:147–159. <a href="https://https://www.karger.com/Article/Abstract/484898" target="_blank">Click here for the PDF</a>.</p></div></li> 
 </ul>
 
 <ul>
