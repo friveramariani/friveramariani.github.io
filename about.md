@@ -15,7 +15,7 @@ title: Dr. Rivera-Mariani's Credentials
 
 ## CV, Fellowships, and Specializations
 
-- <a href="https://github.com/friveramariani/friveramariani.github.io/blob/master/CV/CV_FE_RiveraMariani.pdf" target="_blank">Updated CV</a>
+- <a href="https://github.com/friveramariani/friveramariani.github.io/blob/master/CV/CV_FE_RiveraMariani.pdf" target="_blank">Click here to view and download an Updated-version of my Curriculum Vitae</a>
 
 - **Postdoctoral Fellowships at the Bloomberg School of Public Health of the Johns Hopkins University**
 <img src="images/JHSPH_Fellowship.jpg" alt="Science Teaching Fellowship at ASM" class="inline"/>
