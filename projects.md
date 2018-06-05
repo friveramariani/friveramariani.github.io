@@ -23,10 +23,6 @@ title: Dr. Rivera-Mariani Current Projects
 
 ---
 
-<div style="text-align:justify"><p><a href="https://friveramariani.github.io/RA_RD/" target="_blank">Rheumatoid Arthritis and Air Pollution</a>. This collaboration, between <a href="https://friveramariani.github.io/RIPL_Effect/" target="_blank">Dr. Rivera-Mariani's</a> and <a href="https://www.linkedin.com/in/hatem-elshabrawy-00a78a62/" target="_blank">Dr. Elshabrawy's</a> research groups, seeks to address the immunological, biochemical, and environmental links between two common chronic diseases of the Western hemisphere: rheumatoid arthritis and chronic respiratory diseases (e.g. asthma, COPD, allergic rhinitis, among others).</p></div>   
-
----
-
 **Big Data analysis in Biological Sciences and Public Health**
 
 <div style="text-align:justify"><p>Understanding the biological mechanisms that participate in human disease and designing intervention strategies to promote better human helth rely on evidence-based approaches. <a href="https://en.wikipedia.org/wiki/Big_data" target="_blank">Big Data analysis</a> in biological sciences aligns with one of the requirements of the <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4589117/" target="_blank">Bradford Hill</a> criteria for disease causation. Thefore, in this category of projects, I share <b>computational approaches</b> applied into the interphase of biological sciences to understand human health, and environmental health sciences approaches to prevent or limit incidence of human disease.</p></div> 
