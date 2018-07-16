@@ -16,6 +16,10 @@ title: Dr. Rivera-Mariani's Publications
 ## Recent Publications
 
 <ul>
+<li><div style="text-align:justify"><p>	<strong>Rivera-Mariani F.E.</strong> and Bolaños-Rosero B. Principal Component Analysis to Evaluate Relationships in Reactivity to Commercial Extracts and Uncharacterized Fungi among Asthmatic and Allergic Rhinitis Subjects. <i>J Immunol</i>. 2018. 200 (1 Supp; 44.2). <a href="http://www.jimmunol.org/content/200/1_Supplement/44.2" target="_blank">Click here for the PDF</a>.</p></div></li> 
+</ul>
+
+<ul>
 <li><div style="text-align:justify"><p>	González de Leon J, Gonález Méndez R., Cadilla Vázquez CL, <strong>Rivera-Mariani FE</strong>, Bolaños-Rosero, B. Serological Reactivity and Identification of Immunoglobulin E – Binding Proteins of Xerophilic Fungus Aspergillus penicilloides Crude Mycelial Mat Extract in Puerto Rican Atopic Subjects. <i>Int Arch Allergy Immunol</i>. 2018. 175:147–159. <a href="https://https://www.karger.com/Article/Abstract/484898" target="_blank">Click here for the PDF</a>.</p></div></li> 
 </ul>
 
