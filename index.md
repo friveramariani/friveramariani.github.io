@@ -40,20 +40,14 @@ If you would like to collaborate in current and future projects, feel free to re
 
 <a href="mailto:friveramariani@gmail.com" target="_blank" style="color:#515151;"><i class="fa fa-envelope" style="font-size:1em"></i> &nbsp; <b>my Email</b><br></a>
 
----
+
 @ Twitter
 
 <a href="https://twitter.com/friveramariani?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @friveramariani</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <a href="https://twitter.com/intent/tweet?screen_name=friveramariani&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-show-count="false">Tweet to @friveramariani</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
----
-@ Github
 
-<div class="github-card" data-user="friveramariani"></div>
-<script src="http://lab.lepture.com/github-cards/widget.js"></script>
-
----
 @ LinkedIn
 
 <script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
