@@ -17,6 +17,7 @@ title: Dr. Rivera-Mariani's Credentials
 
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-6671-0174" href="https://orcid.org/0000-0002-6671-0174" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0002-6671-0174</a></div>
 
+
 - <a href="https://github.com/friveramariani/friveramariani.github.io/blob/master/CV/CV_FE_RiveraMariani.pdf" target="_blank">Click here to view and download an Updated-version of my Curriculum Vitae</a>
 
 - **Postdoctoral Fellowships at the Bloomberg School of Public Health of the Johns Hopkins University**
