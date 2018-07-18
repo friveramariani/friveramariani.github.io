@@ -16,6 +16,10 @@ title: Dr. Rivera-Mariani's Publications
 ## Recent Publications
 
 <ul>
+<li><div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-6671-0174" href="https://orcid.org/0000-0002-6671-0174" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0002-6671-0174</a></div></li>
+</ul>
+
+<ul>
 <li><div style="text-align:justify"><p>	<strong>Rivera-Mariani F.E.</strong> and Bolaños-Rosero B. Principal Component Analysis to Evaluate Relationships in Reactivity to Commercial Extracts and Uncharacterized Fungi among Asthmatic and Allergic Rhinitis Subjects. <i>J Immunol</i>. 2018. 200 (1 Supp; 44.2). <a href="http://www.jimmunol.org/content/200/1_Supplement/44.2" target="_blank">Click here for the PDF</a>.</p></div></li> 
 </ul>
 
