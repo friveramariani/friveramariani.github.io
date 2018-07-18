@@ -21,6 +21,9 @@ Find in this page information about Computational Approaches in Biology and Data
 - to monitor students' learning and performance in the classroom
 - to implement machine learning methods
 
+<div class="github-card" data-user="laumania"></div>
+<script src="http://lab.lepture.com/github-cards/widget.js"></script>
+
 ---
 
 <div style="text-align:justify"><p><a href="https://github.com/friveramariani/Proteomic-Examples" target="_blank">Example of Proteomic Analysis of Ovarian Cancer</a>: This example proteomic data analysis, performed in the <a href="https://www.mathworks.com/products/matlab.html" target="_blank">Matlab</a> computer language, analyzed SELDI-TOF mass spectrometry from blood samples of two groups: ovarian cancer  vs control group. In this example, Matlab scripts are presented to pre-process the data, generate plots of the groups' spectrograms as well as ranking features using a two-way t-statistic. The data analyzed in this example was obtained from the <a href="https://home.ccr.cancer.gov/ncifdaproteomics/ppatterns.asp">FDA-NCI Clinical Proteomics Program</a>.</p></div> 
