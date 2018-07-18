@@ -40,10 +40,17 @@ If you would like to collaborate in current and future projects, feel free to re
 
 
 <a href="https://twitter.com/friveramariani" target="_blank" style="color:#515151;"><i class="fa fa-twitter"></i> &nbsp; Twitter<br></a>  
+
+---
+
 <a href="mailto:friveramariani@gmail.com" target="_blank" style="color:#515151;"><i class="fa fa-envelope" style="font-size:1em"></i> &nbsp; Email<br></a>
+
+---
 
 <div class="github-card" data-user="friveramariani"></div>
 <script src="http://lab.lepture.com/github-cards/widget.js"></script>
+
+---
 
 <script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
 <script type="IN/MemberProfile" data-id="http://www.linkedin.com/in/felixeriveramariani" data-format="inline" data-related="false"></script>
