@@ -21,7 +21,7 @@ Find in this page information about Computational Approaches in Biology and Data
 - to monitor students' learning and performance in the classroom
 - to implement machine learning methods
 
-<div class="github-card" data-user="laumania"></div>
+<div class="github-card" data-user="friveramariani"></div>
 <script src="http://lab.lepture.com/github-cards/widget.js"></script>
 
 ---
