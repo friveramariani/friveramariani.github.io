@@ -36,9 +36,9 @@ title: Dr. Félix E. Rivera-Mariani
 
 ## Collaboration 
 
-If you would like to collaborate in current and future projects, feel free to reach out at:
+If you would like to collaborate in current and future projects, or learn more about my scientific and pedagogical endeavors, feel free to reach out or follow at:
 
-<a href="mailto:friveramariani@gmail.com" target="_blank" style="color:#515151;"><i class="fa fa-envelope" style="font-size:1em"></i> &nbsp; <b>my Email</b><br></a>
+<a href="mailto:friveramariani@gmail.com" target="_blank" style="color:#515151;"><i class="fa fa-envelope" style="font-size:1em"></i> &nbsp;<b>my Email</b><br></a>
 
 
 <a href="https://twitter.com/friveramariani?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @friveramariani</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
