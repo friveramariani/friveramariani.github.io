@@ -38,14 +38,15 @@ title: Dr. Félix E. Rivera-Mariani
 
 If you would like to collaborate in current and future projects, feel free to reach out at:
 
-<div class="contact-buttons" style="line-height:160%;margin-left:30px;margin-top:10px">
-<p>
+
 <a href="https://twitter.com/friveramariani" target="_blank" style="color:#515151;"><i class="fa fa-twitter"></i> &nbsp; Twitter<br></a>  
 <a href="mailto:friveramariani@gmail.com" target="_blank" style="color:#515151;"><i class="fa fa-envelope" style="font-size:1em"></i> &nbsp; Email<br></a>
-<a href="https://github.com/friveramariani" target="_blank" style="color:#515151;"><i class="fa fa-github" style="font-size:1em"></i> &nbsp; GitHub<br></a>
-<a href="https://www.linkedin.com/in/friveramariani" target="_blank" style="color:#515151;"><i class="fa fa-linkedin" style="font-size:1em"></i> &nbsp; LinkedIn<br></a>
-</p>
-</div>
+
+<div class="github-card" data-user="friveramariani"></div>
+<script src="http://lab.lepture.com/github-cards/widget.js"></script>
+
+<script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
+<script type="IN/MemberProfile" data-id="http://www.linkedin.com/in/felixeriveramariani" data-format="inline" data-related="false"></script>
 
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-6671-0174" href="https://orcid.org/0000-0002-6671-0174" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0002-6671-0174</a></div>
 
