@@ -38,7 +38,7 @@ title: Dr. Félix E. Rivera-Mariani
 
 If you would like to collaborate in current and future projects, feel free to reach out at:
 
-<a href="mailto:friveramariani@gmail.com" target="_blank" style="color:#515151;"><i class="fa fa-envelope" style="font-size:1em"></i> &nbsp; <b>Email</b><br></a>
+<a href="mailto:friveramariani@gmail.com" target="_blank" style="color:#515151;"><i class="fa fa-envelope" style="font-size:1em"></i> &nbsp; <b>my Email</b><br></a>
 
 ---
 @ Twitter
