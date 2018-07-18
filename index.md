@@ -57,7 +57,7 @@ If you would like to collaborate in current and future projects, feel free to re
 @ LinkedIn
 
 <script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
-<script type="IN/MemberProfile" data-id="http://www.linkedin.com/in/felixeriveramariani" data-format="inline" data-related="false"></script>
+<script type="IN/MemberProfile" data-id="http://www.linkedin.com/in/felixeriveramariani" data-format="hover" data-related="false" data-text="Felix E. Rivera-Mariani, PhD"></script>
 
 ---
 
