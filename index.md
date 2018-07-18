@@ -59,6 +59,4 @@ If you would like to collaborate in current and future projects, feel free to re
 
 ---
 
-<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-6671-0174" href="https://orcid.org/0000-0002-6671-0174" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0002-6671-0174</a></div>
-
 <font size="1">&#169; Felix E. Rivera-Mariani, PhD 2017 <i>The contents of this website reflect the views of the author and does not represent the views of my institution.</i>.</font>
