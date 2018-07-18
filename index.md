@@ -59,6 +59,6 @@ If you would like to collaborate in current and future projects, feel free to re
 <script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
 <script type="IN/MemberProfile" data-id="http://www.linkedin.com/in/felixeriveramariani" data-format="hover" data-related="false" data-text="Felix E. Rivera-Mariani, PhD"></script>
 
----
+
 
 <font size="1">&#169; Felix E. Rivera-Mariani, PhD 2017 <i>The contents of this website reflect the views of the author and does not represent the views of my institution.</i>.</font>
