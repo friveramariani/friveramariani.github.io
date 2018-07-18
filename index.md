@@ -54,8 +54,8 @@ If you would like to collaborate in current and future projects, feel free to re
 <script src="http://lab.lepture.com/github-cards/widget.js"></script>
 
 ---
-
 @ LinkedIn
+
 <script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
 <script type="IN/MemberProfile" data-id="http://www.linkedin.com/in/felixeriveramariani" data-format="inline" data-related="false"></script>
 
