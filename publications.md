@@ -16,6 +16,14 @@ title: Dr. Rivera-Mariani's Publications
 ## Recent Publications
 
 <ul>
+<li><div style="text-align:justify"><p>Srour H, Fomenko R, Baguley J, Bellinger S, Jordan A, Sutton J, Santana M, Marull A, Abdalhuk M, Rivera-Mariani FE. Pilot Study of Public-Available Data to Evaluate the Relationship between Forest Fires and Emergency Department Visits due to Asthma in the State of California. <i>F1000Research</i>. Submitted. August, 2018.</p></div></li> 
+</ul> 
+
+<ul>
+<li><div style="text-align:justify"><p>Abdalhuk M, Jordan A, Wagimin R, Stamitoles C, Bellinger S, Baguley J, Srour H, Fomenko R, Sutton J, Santana M, Marull A, Rivera-Mariani FE. Evaluating the Associations of Race, Ethnicity, and Food Allergens in the Development of Childhood Asthma: Re-Analysis of Publicly Available Retrospective Cross-Sectional Cohort. <i>F1000Research</i>. Submitted August, 2018.</p></div></li> 
+</ul> 
+
+<ul>
 <li><div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-6671-0174" href="https://orcid.org/0000-0002-6671-0174" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0002-6671-0174</a></div></li>
 </ul>
 
