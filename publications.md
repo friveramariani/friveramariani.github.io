@@ -20,7 +20,7 @@ title: Dr. Rivera-Mariani's Publications
 </ul> 
 
 <ul>
-<li><div style="text-align:justify"><p>Abdalhuk M, Jordan A, Wagimin R, Stamitoles C, Bellinger S, Baguley J, Srour H, Fomenko R, Sutton J, Santana M, Marull A, Rivera-Mariani FE. Evaluating the Associations of Race, Ethnicity, and Food Allergens in the Development of Childhood Asthma: Re-Analysis of Publicly Available Retrospective Cross-Sectional Cohort. <i>F1000Research</i>. Submitted August, 2018.</p></div></li> 
+<li><div style="text-align:justify"><p>Abdalhuk M, Jordan A, Wagimin R, Stamitoles C, Bellinger S, Baguley J, Srour H, Fomenko R, Sutton J, Santana M, Marull A, Rivera-Mariani FE. Evaluating the Associations of Race, Ethnicity, and Food Allergens in the Development of Childhood Asthma: Re-Analysis of Publicly Available Retrospective Cross-Sectional Cohort. [version 1; referees: awaiting peer review]. <i>F1000Research</i>. 2018, 7:1209 (doi: <a href="http://dx.doi.org/10.12688/f1000research.15831.1" target="_blank">10.12688/f1000research.15831.1</a>).</p></div></li> 
 </ul> 
 
 <ul>
