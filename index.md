@@ -24,15 +24,15 @@ title: Dr. Félix E. Rivera-Mariani
 
 ## Learn more about my...
 
-<a href="http://www.friveram.com/about" target="_blank">Credentials</a>
+<a href="https://www.friveram.com/RIPL_Effect" target="_blank">My Research Group at Larkin University</a>
 
-<a href="http://www.friveram.com/projects" target="_blank">Projects</a>
+<a href="https://www.friveram.com/about" target="_blank">Credentials</a>
 
-<a href="http://www.friveram.com/publications" target="_blank">Publications</a>
+<a href="https://www.friveram.com/publications" target="_blank">Publications</a>
 
-<a href="http://www.friveram.com/compbio" target="_blank">Computational approaches</a>
+<a href="https://www.friveram.com/compbio" target="_blank">Computational approaches</a>
 
-<a href="http://www.friveram.com/teaching" target="_blank">Science Teaching</a>
+<a href="https://www.friveram.com/teaching" target="_blank">Science Teaching</a>
 
 ## Collaboration 
 
