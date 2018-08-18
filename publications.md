@@ -16,16 +16,16 @@ title: Dr. Rivera-Mariani's Publications
 ## Recent Publications
 
 <ul>
+<li><div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-6671-0174" href="https://orcid.org/0000-0002-6671-0174" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0002-6671-0174</a></div></li>
+</ul>
+
+<ul>
 <li><div style="text-align:justify"><p>Srour H, Fomenko R, Baguley J, Bellinger S, Jordan A, Sutton J, Santana M, Marull A, Abdalhuk M, Rivera-Mariani FE. Pilot Study of Public-Available Data to Evaluate the Relationship between Forest Fires and Emergency Department Visits due to Asthma in the State of California. <i>F1000Research</i>. [version 1; referees: awaiting peer review]. 2018. 7: 1232 (doi: <a href="http://dx.doi.org/10.12688/f1000research.15839.1" target="_blank">10.12688/f1000research.15839.1</a>).</p></div></li> 
 </ul>
 
 <ul>
 <li><div style="text-align:justify"><p>Abdalhuk M, Jordan A, Wagimin R, Stamitoles C, Bellinger S, Baguley J, Srour H, Fomenko R, Sutton J, Santana M, Marull A, Rivera-Mariani FE. Evaluating the Associations of Race, Ethnicity, and Food Allergens in the Development of Childhood Asthma: Re-Analysis of Publicly Available Retrospective Cross-Sectional Cohort. [version 1; referees: awaiting peer review]. <i>F1000Research</i>. 2018, 7:1209 (doi: <a href="http://dx.doi.org/10.12688/f1000research.15831.1" target="_blank">10.12688/f1000research.15831.1</a>).</p></div></li> 
 </ul> 
-
-<ul>
-<li><div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-6671-0174" href="https://orcid.org/0000-0002-6671-0174" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0002-6671-0174</a></div></li>
-</ul>
 
 <ul>
 <li><div style="text-align:justify"><p>	<strong>Rivera-Mariani F.E.</strong> and Bolaños-Rosero B. Principal Component Analysis to Evaluate Relationships in Reactivity to Commercial Extracts and Uncharacterized Fungi among Asthmatic and Allergic Rhinitis Subjects. <i>J Immunol</i>. 2018. 200 (1 Supp; 44.2). <a href="http://www.jimmunol.org/content/200/1_Supplement/44.2" target="_blank">Click here for the PDF</a>.</p></div></li> 
