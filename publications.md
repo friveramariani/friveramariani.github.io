@@ -11,7 +11,7 @@ title: Dr. Rivera-Mariani's Publications
   gtag('config', 'UA-103557590-4');
 </script>
 
-[**Home Page**](http://www.friveram.com/) | [**Credentials**](http://www.friveram.com/about) | [**Projects**](http://www.friveram.com/projects) | [**Computational**](http://www.friveram.com/compbio) | [**Teaching**](http://www.friveram.com/teaching) 
+[**Home Page**](http://www.friveram.com/) | [**Credentials**](http://www.friveram.com/about) | [**Computational**](http://www.friveram.com/compbio) | [**Teaching**](http://www.friveram.com/teaching) 
 
 ## Recent Publications
 

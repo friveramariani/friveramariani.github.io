@@ -11,7 +11,7 @@ title: Dr. Rivera-Mariani's Credentials
   gtag('config', 'UA-103557590-4');
 </script>
 
-[**Home Page**](http://www.friveram.com/) | [**Publications**](http://www.friveram.com/publications) | [**Projects**](http://www.friveram.com/projects) | [**Computational**](http://www.friveram.com/compbio) | [**Teaching**](http://www.friveram.com/teaching) 
+[**Home Page**](http://www.friveram.com/) | [**Publications**](http://www.friveram.com/publications) | [**Computational**](http://www.friveram.com/compbio) | [**Teaching**](http://www.friveram.com/teaching) 
 
 ## CV, Fellowships, and Specializations
 

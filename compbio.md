@@ -11,7 +11,7 @@ title: Dr. Rivera-Mariani Computational Approaches
   gtag('config', 'UA-103557590-4');
 </script>
 
-[**Home Page**](http://www.friveram.com/) | [**Credentials**](http://www.friveram.com/about) | [**Publications**](http://www.friveram.com/publications) | [**Projects**](http://www.friveram.com/projects) | [**Teaching**](http://www.friveram.com/teaching) 
+[**Home Page**](http://www.friveram.com/) | [**Credentials**](http://www.friveram.com/about) | [**Publications**](http://www.friveram.com/publications) | [**Teaching**](http://www.friveram.com/teaching) 
 
 ## Computational Approaches
 

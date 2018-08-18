@@ -11,7 +11,7 @@ title: Dr. Rivera-Mariani's Science Teaching
   gtag('config', 'UA-103557590-4');
 </script>
 
-[**Home Page**](http://www.friveram.com/) | [**Credentials**](http://www.friveram.com/about) | [**Publications**](http://www.friveram.com/publications) | [**Projects**](http://www.friveram.com/projects) | [**Computational**](http://www.friveram.com/compbio)  
+[**Home Page**](http://www.friveram.com/) | [**Credentials**](http://www.friveram.com/about) | [**Publications**](http://www.friveram.com/publications) | [**Computational**](http://www.friveram.com/compbio)  
 
 ## Science Teaching 
 
