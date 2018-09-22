@@ -93,6 +93,7 @@ footer-links-active:
   facebook: false
   twitter: true
   linkedin: true
+  youtube: true
 
 # Select which share links to show in posts
 share-links-active:
@@ -100,6 +101,7 @@ share-links-active:
   facebook: true
   google: false
   linkedin: true
+
 
 # --- Web Statistics Section --- #
 
