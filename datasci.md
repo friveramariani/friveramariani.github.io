@@ -1,19 +1,8 @@
 ---
-title: Dr. Rivera-Mariani Computational Approaches
+layout: page
+title: Data Science and Computational Approaches
 ---
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-103557590-4"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'UA-103557590-4');
-</script>
-
-[**Home Page**](http://www.friveram.com/) | [**Credentials**](http://www.friveram.com/about) | [**Publications**](http://www.friveram.com/publications) | [**Teaching**](http://www.friveram.com/teaching) 
-
-## Computational Approaches
 
 Find in this page information about Computational Approaches in Biology and Data Science employing R, Python, Matlab, including computational approaches...
 
