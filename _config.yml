@@ -34,8 +34,8 @@ navbar-links:
     - Teaching: "teaching"
   News/Blog: "blog"
   Social: 
-    - In Twitter: "twitter"
-    - In Linkedin: "linkedin"
+    - Twitter: "twitter"
+    - Facebook: "facebook"
   My Research Lab: "https://www.riplrt.com"
 
 
