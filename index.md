@@ -1,19 +1,8 @@
 ---
-title: Dr. Félix E. Rivera-Mariani
+layout: page
+title: Felix E. Rivera-Mariani, PhD
 ---
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-103557590-4"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'UA-103557590-4');
-</script>
-
-[**Credentials**](http://www.friveram.com/about) | [**Publications**](http://www.friveram.com/publications) | [**Computational**](http://www.friveram.com/compbio) | [**Teaching**](http://www.friveram.com/teaching) 
-
-## Félix E. Rivera-Mariani, PhD
 
 <img src="images/RiveraMariani-Photo.JPG" alt="Dr. Rivera-Mariani" align="right" style="width: 30%; height: 30%; margin:8px"> <a name="Dr. Félix E. Rivera-Mariani"></a> 
 <div style="text-align:justify"><p>Dear readers, I am <b><i>Dr. Rivera-Mariani</i></b>, immunologist, microbiologist, aerobiologist, and computational biologist, with interest in understanding the immunological and molecular mechanisms that participate in the respiratory health risks from exposure to different airborne biological pollutants of different chemical origins at different environmental settings.</p></div> 

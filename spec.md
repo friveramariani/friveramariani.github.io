@@ -1,38 +1,9 @@
 ---
 layout: page
-title: Dr. Rivera-Mariani's Credentials
----
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-103557590-4"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-103557590-4');
-</script>
-
-[**Home Page**](http://www.friveram.com/) | [**Publications**](http://www.friveram.com/publications) | [**Computational**](http://www.friveram.com/compbio) | [**Teaching**](http://www.friveram.com/teaching) 
-
-## CV, Fellowships, and Specializations
-
-<ul>
-<li><div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-6671-0174" href="https://orcid.org/0000-0002-6671-0174" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0002-6671-0174</a></div></li>
-</ul>
-
-- <a href="https://github.com/friveramariani/friveramariani.github.io/blob/master/CV/CV_FE_RiveraMariani.pdf" target="_blank">Click here to view and download an Updated-version of my Curriculum Vitae</a>
-
-- **Postdoctoral Fellowships at the Bloomberg School of Public Health of the Johns Hopkins University**
-<img src="images/JHSPH_Fellowship.jpg" alt="Science Teaching Fellowship at ASM" class="inline"/>
-
+title: My Specializations
+subtitle: Find below additional training in public health, data science, and computational approaches
 ---
 
-- **Science Teaching Fellowship at the American Society for Microbiology**
-<img src="images/STF_ASM.jpg" alt="Science Teaching Fellowship at ASM" class="inline"/>
-
----
-
-***Find below links to certificates of completed Specializations Statistics and Data Science***
 
 #### Public Health-Related Statistical Training
 + <a href="https://felix-riveramariani-ms9j.squarespace.com/s/2016-03-30_14-19-41.jpg" target="_blank">Statistical Reasoning for Public Health I</a> (Johns Hopkins University on <a href="www.coursera.org" target="_blank">www.coursera.org</a>)
