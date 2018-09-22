@@ -91,7 +91,8 @@ footer-links-active:
   email: true
   rss: false
   facebook: false
-  twitter: false
+  twitter: true
+  linkedin: true
 
 # Select which share links to show in posts
 share-links-active:
