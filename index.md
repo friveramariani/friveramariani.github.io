@@ -14,13 +14,11 @@ title: Felix E. Rivera-Mariani, PhD
 
 <a href="https://www.riplrt.com" target="_blank">My Research Group at Larkin University</a>
 
-<a href="https://www.friveram.com/about" target="_blank">Credentials</a>
+<a href="/publications">Publications</a>
 
-<a href="https://www.friveram.com/publications" target="_blank">Publications</a>
+<a href="/datasci" target="_blank">Computational approaches</a>
 
-<a href="https://www.friveram.com/compbio" target="_blank">Computational approaches</a>
-
-<a href="/teaching" target="_blank">Science Teaching</a>
+<a href="/teaching" target="_blank">Courses I currently teach or have taught</a>
 
 ## Collaboration 
 
