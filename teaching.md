@@ -1,19 +1,9 @@
 ---
-title: Dr. Rivera-Mariani's Science Teaching
+layout: page
+title: My Science Teaching
+subtitle: Courses that I currently teach, or have taught, and sample syllabi
 ---
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-103557590-4"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'UA-103557590-4');
-</script>
-
-[**Home Page**](http://www.friveram.com/) | [**Credentials**](http://www.friveram.com/about) | [**Publications**](http://www.friveram.com/publications) | [**Computational**](http://www.friveram.com/compbio)  
-
-## Science Teaching 
 
 Find in this page information about 
 
