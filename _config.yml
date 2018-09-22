@@ -80,12 +80,10 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Copyrights RIPL_Effect Research Team 
-  email: "contactus@riplrt.com"
-  facebook: RIPLEffectRT
-  github: riplrt
-  twitter: riplrt
-  instagram: ripleffectrt
+  name: Copyrights Felix E. Rivera-Mariani, PhD
+  email: "friveram@riplrt.com"
+  github: friveramariani
+  twitter: friveramariani
   youtube: channel/RIPL_EffectRT
 
 # Select your active Social Network Links.
