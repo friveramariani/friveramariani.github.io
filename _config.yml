@@ -28,13 +28,12 @@ navbar-links:
   About Me: 
     - Curriculum Vitae: "CV/CV_FE_RiveraMariani.pdf"
     - Fellowships: "fellowships"
-    - Specializatins: "specs"
+    - Specializations: "specs"
     - Publications: "publications" 
     - Data Science: "datasci"
     - Teaching: "teaching"
   News/Blog: "blog"
   Social: 
-    - In Facebook: "facebook"
     - In Twitter: "twitter"
     - In Linkedin: "linkedin"
   My Research Lab: "https://www.riplrt.com"
