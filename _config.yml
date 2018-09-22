@@ -26,9 +26,8 @@ description: Personal website for Felix E. Rivera-Mariani, PhD
 navbar-links:
   Home: ""
   About Me: 
-    - Curriculum Vitae: "cv"
+    - Curriculum Vitae: "CV/CV_FE_RiveraMariani.pdf"
     - Fellowships: "fellowships"
-    - Specializations: "spec"
   Publications: 
     - Peer-Reviewed: "articles"
     - Data Science: "datasci"
