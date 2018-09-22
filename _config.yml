@@ -28,6 +28,7 @@ navbar-links:
   About Me: 
     - Curriculum Vitae: "CV/CV_FE_RiveraMariani.pdf"
     - Fellowships: "fellowships"
+    - Specializatins: "specs"
   Publications: 
     - Peer-Reviewed: "articles"
     - Data Science: "datasci"
