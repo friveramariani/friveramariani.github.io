@@ -1,7 +1,6 @@
 ---
 layout: page
-title: My Additional Training
-subtitle: Fellowships and Specializations in Environmental Health and Computational Approaches
+title: My Postdoctoral Fellowships
 ---
 
 - **Postdoctoral Fellowships at the Bloomberg School of Public Health of the Johns Hopkins University**
