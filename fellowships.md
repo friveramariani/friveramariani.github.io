@@ -4,12 +4,12 @@ title: My Postdoctoral Fellowships
 ---
 
 - **Postdoctoral Fellowships at the Bloomberg School of Public Health of the Johns Hopkins University**
-<img src="img/JHSPH_Fellowship.jpg" alt="Science Teaching Fellowship at ASM" class="inline"/>
+<img src="/img/JHSPH_Fellowship.jpg" alt="Science Teaching Fellowship at ASM" class="inline"/>
 
 ---
 
 - **Science Teaching Fellowship at the American Society for Microbiology**
-<img src="img/STF_ASM.jpg" alt="Science Teaching Fellowship at ASM" class="inline"/>
+<img src="/img/STF_ASM.jpg" alt="Science Teaching Fellowship at ASM" class="inline"/>
 
 ---
 
