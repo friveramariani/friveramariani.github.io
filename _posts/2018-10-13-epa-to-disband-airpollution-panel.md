@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Agemda to limit science contribution to air pollution standards
+title: Agenda to limit science contribution to air pollution standards
 subtitle: EPA plans to replace the current expert advisory committee with a smaller group lacking experts in individual pollutants
 ---
 
-Air pollutants, as very well-explained in this link ([click here](https://www.nationalgeographic.com/environment/global-warming/)pollution/) by National Geographic, are barely visible, come from different chemical origins (i.e. biological and non-biological) and sources (e.g gas-combustion, indoor daily activities, industries, disturbance of vegetation, etc), and pose numerous human health hazards. Among the consequences of exposure to different amounts (and lengths of exposure) of air pollutants include increased risk of chronic respiratory (e.g., asthma, chronic obstructive respiratory disease, respiratory allergies), cardiovascular, and metabolic disorders (e.g., diabetes) (see more information here: https://www.sciencedirect.com/science/article/pii/S0269749107002849). 
+Air pollutants, as very well-explained in this link ([click here](https://www.nationalgeographic.com/environment/global-warming/pollution/) by National Geographic, are barely visible, come from different chemical origins (i.e. biological and non-biological) and sources (e.g gas-combustion, indoor daily activities, industries, disturbance of vegetation, etc), and pose numerous human health hazards. Among the consequences of exposure to different amounts (and lengths of exposure) of air pollutants include increased risk of chronic respiratory (e.g., asthma, chronic obstructive respiratory disease, respiratory allergies), cardiovascular, and metabolic disorders (e.g., diabetes) (see more information here: https://www.sciencedirect.com/science/article/pii/S0269749107002849). 
 
 Nevertheless, as recently reported by the New York Times (see the tweet below), the U.S. Environmental Protection Agency (EPA) will be disbanding an advisory committee composed of 20-experts in environmental health and exposure science. In place of this expert panel, the EPA seeks to create a 7-member panel: only one expert in respiratory disease, but a researcher with expertise in environmental health or exposure science.
 
