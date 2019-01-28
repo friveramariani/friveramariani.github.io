@@ -11,7 +11,7 @@ On Januarty 24th, 2019, I presented a seminar addressing how data analytics can 
 <img src="/img/Flyer_Seminar_UPR-PRISE_Jan_24_Felix_Rivera.png" alt="Data Analytics Seminar Flyer" class="inline"/>
 ***Flyer of the Data Analytics seminar***
 
-<img src="/img/seminar-presentation.jpg" alt="Dr. Rivera-Mariani during the seminar" class="inline"/>
+<img src="/img/seminar-presentation.jpg" alt="Data Analytics Seminar Flyer" class="inline"/>
 ***Photo by UPR-PRISE***
 
 In a follow up to the seminar shown above, on Januarty 26th, 2019 I delivered a hands-on workshop to introduce students in the epicycles of data analytics and programming approaches to carry out data analytics (see below). Among the learning goals of the workshop included being concious about the different stages within data analytics and how the epicycle within each stage work, depends on previous cycles, and prepare the stage for the following data analytic stages. 
@@ -24,5 +24,5 @@ I am veery grateful of the <a href="http://prise.uprp.edu/prise-key-personnel-st
 <img src="/img/with-upr-prise.jpg" alt="With the UPR-PRISE program" class="inline"/>
 
 
-
 Cheers for the ***UPR-PRISE program***!
+
