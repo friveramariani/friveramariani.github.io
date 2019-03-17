@@ -30,7 +30,7 @@ title: My Publications
 <li><div style="text-align:justify"><p>Stateman, Ariel J., Hayat H. Srour, Joshua K. Baguley, Shandra V. Bellinger, and Felix E. Rivera-Mariani. 2019. “Comparison between PM2.5 Levels on East Coast and State of California in Relationship to Asthma.” The Journal of Allergy and Clinical Immunology 143 (2): AB24. (<a href="https://www.jacionline.org/article/S0091-6749(18)31817-7/fulltext" target="_blank">click here to access the abstract</a>).</p></div></li> 
 
 <ul>
-<li><div style="text-align:justify"><p>Srour H, Fomenko R, Baguley J, Bellinger S, Jordan A, Sutton J, Santana M, Marull A, Abdalhuk M, <b>Rivera-Mariani FE</b>. Pilot Study of Public-Available Data to Evaluate the Relationship between Forest Fires and Emergency Department Visits due to Asthma in the State of California. <i>F1000Research</i>. [version 1; referees: awaiting peer review]. 2018. 7: 1232 (doi: <a href="http://dx.doi.org/10.12688/f1000research.15839.1" target="_blank">10.12688/f1000research.15839.1</a>).</p></div></li> 
+<li><div style="text-align:justify"><p>Srour H, Fomenko R, Baguley J, Bellinger S, Jordan A, Sutton J, Santana M, Marull A, Abdalhuk M, <b>Rivera-Mariani FE</b>. Pilot Study of Public-Available Data to Evaluate the Relationship between Forest Fires and Emergency Department Visits due to Asthma in the State of California. <i>F1000Research</i>. [version 1; referees: awaiting peer review]. 2018. 7: 1232 (doi: <a href="https://doi.org/10.12688/f1000research.15839.2" target="_blank">10.12688/f1000research.15839.1</a>).</p></div></li> 
 </ul>
 
 <ul>
