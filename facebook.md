@@ -26,6 +26,8 @@ Access here our post, news, and updates we share with the Facebook community. In
 
 <b><i><a href="http://wwww.friveram.com">Click here to return to the Home Page</a></i></b>
 
+<br>
+
 ---
 
 <font size="1">&#169; Felix E. Rivera-Mariani, PhD 2018 <i>The contents of this website reflect the views of the author and does not represent the views of my institution.</i>.</font>
