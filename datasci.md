@@ -52,6 +52,6 @@ Other biological and non-biological data sciences
 - <a href="http://rpubs.com/friveramariani/dataproduct" target="_blank">Find other Data Science Projects here</a>
 - <a href="https://github.com/friveramariani" target="_blank">Find Biological and non-Biological Data Science codes here</a>
 
-[**Click here to return to the Home Page**](http://www.friveram.com/)
+<b><i><a href="http://wwww.friveram.com">Click here to return to the Home Page</a></i></b>
 
 <font size="1">&#169; Felix E. Rivera-Mariani, PhD 2018 <i>The contents of this website reflect the views of the author and does not represent the views of my institution.</i>.</font>

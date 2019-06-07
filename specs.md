@@ -79,6 +79,6 @@ subtitle: Find below additional training in public health, data science, and com
 + <a href="https://www.coursera.org/account/accomplishments/certificate/39X9PLSJGS2B" target="_blank">Bioinformatics VI (Finding Mutations in DNA and Proteins)</a>
 + Bioinformatics Capstone (Big Data in Biology)
 
-[**Click here to return to the Home Page**](http://www.friveram.com/)
+<b><i><a href="http://wwww.friveram.com">Click here to return to the Home Page</a></i></b>
 
 <font size="1">&#169; Felix E. Rivera-Mariani, PhD 2018 <i>The contents of this website reflect the views of the author and does not represent the views of my institution.</i>.</font>
