@@ -12,7 +12,7 @@ Access here our post, news, and updates we share with the Facebook community. In
 - Health information
 - Reflections: **don't miss our Friday's Reflections!**
 
-<div class="fb-page" data-href="https://www.facebook.com/RIPLEffectRT/" data-tabs="timeline" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/RIPLEffectRG/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/RIPLEffectRG/">RIPL_Effect: Respiratory and Immunology Project at Larkin</a></blockquote></div>
+<div class="fb-page" data-href="https://www.facebook.com/RIPLRT/" data-tabs="timeline" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/RIPLRT/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/RIPLRT/">RIPL_Effect: Respiratory and Immunology Project and Laboratory</a></blockquote></div>
 
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
@@ -23,6 +23,8 @@ Access here our post, news, and updates we share with the Facebook community. In
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
 
+
+<b><i><a href="http://wwww.friveram.com">Click here to return to the Home Page</a></i></b>
 
 ---
 
