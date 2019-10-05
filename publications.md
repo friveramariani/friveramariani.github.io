@@ -11,7 +11,7 @@ title: My Publications
 </ul>
 
 <ul>
-<li><div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://www.researchgate.net/profile/Felix_Rivera-Mariani" href="https://www.researchgate.net/profile/Felix_Rivera-Mariani" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://avatars0.githubusercontent.com/u/1073651?s=200&v=4" style="width:2em;margin-right:.5em;" alt="researchgate iD icon">ResearchGate Profile</a></div></li>
+<li><div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://www.researchgate.net/profile/Felix_Rivera-Mariani" href="https://www.researchgate.net/profile/Felix_Rivera-Mariani" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://avatars0.githubusercontent.com/u/1073651?s=200&v=4" style="width:2em;margin-right:.5em;" alt="researchgate iD icon">www.researchgate.net/profile/Felix_Rivera-Mariani</a></div></li>
 </ul>
 
 <ul>
