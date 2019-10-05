@@ -3,7 +3,8 @@ layout: page
 title: Fellowships
 ---
 
-- **Programs to Increase Diversity Among Individuals Engaged in Health Related Research, Advanced Respiratory Research for Equity at the University of Arizona**
+- **Programs to Increase Diversity Among Individuals Engaged in Health Related Research (PRIDE)**
+	+*Advanced Respiratory Research for Equity (AIRE) at the University of Arizona*
 <img src="/img/AZ_PRIDE_AIRE_Fellowship.png" alt="AZ-PRIDE AIRE Fellowships" class="inline"/>
 
 
