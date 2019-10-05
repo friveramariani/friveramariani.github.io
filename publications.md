@@ -15,7 +15,7 @@ title: My Publications
 </ul>
 
 <ul>
-<li><div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://publons.com/researcher/B-1578-2012/" href="https://publons.com/researcher/B-1578-2012/" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://en.wikipedia.org/wiki/File:Publons_logo.png" style="width:2em;margin-right:.5em;" alt="publons iD icon">Publons Profile</a></div></li>
+<li><div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://publons.com/researcher/B-1578-2012/" href="https://publons.com/researcher/B-1578-2012/" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="http://publishingsupport.iopscience.iop.org/wp-content/uploads/2017/10/alternative.png" style="width:2em;margin-right:.5em;" alt="publons iD icon">publons.com/researcher/B-1578-2012</a></div></li>
 </ul>
 
 <ul>
