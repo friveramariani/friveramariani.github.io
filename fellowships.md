@@ -1,7 +1,11 @@
 ---
 layout: page
-title: My Postdoctoral Fellowships
+title: Fellowships
 ---
+
+- **Programs to Increase Diversity Among Individuals Engaged in Health Related Research, Advanced Respiratory Research for Equity at the University of Arizona**
+<img src="/img/AZ_PRIDE_AIRE_Fellowship.png" alt="AZ-PRIDE AIRE Fellowships" class="inline"/>
+
 
 - **Postdoctoral Fellowships at the Bloomberg School of Public Health of the Johns Hopkins University**
 <img src="/img/JHSPH_Fellowship.jpg" alt="Science Teaching Fellowship at ASM" class="inline"/>
