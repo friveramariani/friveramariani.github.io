@@ -34,12 +34,20 @@ If you would like to collaborate in current and future projects, or learn more a
 <script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
 <script type="IN/MemberProfile" data-id="http://www.linkedin.com/in/felixeriveramariani" data-format="hover" data-related="false" data-text="Felix E. Rivera-Mariani, PhD"></script>
 
+<br>
+
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-6671-0174" href="https://orcid.org/0000-0002-6671-0174" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0002-6671-0174</a></div>
+
+<br>
 
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://www.researchgate.net/profile/Felix_Rivera-Mariani" href="https://www.researchgate.net/profile/Felix_Rivera-Mariani" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://avatars0.githubusercontent.com/u/1073651?s=200&v=4" style="width:2em;margin-right:.5em;" alt="researchgate iD icon">www.researchgate.net/profile/Felix_Rivera-Mariani</a>
 
+<br>
+
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://publons.com/researcher/B-1578-2012/" href="https://publons.com/researcher/B-1578-2012/" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="http://publishingsupport.iopscience.iop.org/wp-content/uploads/2017/10/alternative.png" style="width:2em;margin-right:.5em;" alt="publons iD icon">publons.com/researcher/B-1578-2012</a>
-	
+
+<br>
+
 ---
 
 <font size="1">&#169; Felix E. Rivera-Mariani, PhD 2018 <i>The contents of this website reflect the views of the author and does not represent the views of my institution.</i>.</font>
