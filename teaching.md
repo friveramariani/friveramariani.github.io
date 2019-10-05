@@ -1,7 +1,6 @@
 ---
 layout: page
 title: My Science Teaching
-subtitle: Courses that I currently teach, or have taught, and sample syllabi
 ---
 
 
@@ -14,11 +13,11 @@ Find in this page information about
 #### Courses (at the College of Biomedical Sciences of Larkin University)
 
 <ul>
-<li><div style="text-align:justify"><p>	<strong>Medical Biochemistry 1</strong>: This course introduces the fundamental aspects of biological chemistry from both a biochemical and medical perspective. The course overviews the structure, function, and metabolism of biological molecules: carbohydrates, fatty acids, proteins and nucleic acids. It also evaluates, in detail, enzyme kinetics, including their activation, inhibition, and allosteric interactions in metabolic pathways of biological molecules and other physiological processes, as well as in the flow of genetic information. Students learn to elaborate on specific biochemical pathways and how they interface with human diseases, including disease etiology, diagnosis, and treatment. Students also learn to describe and apply biochemical concepts into scientific biomedical research.</p></div></li> 
+<li><div style="text-align:justify"><p>	<strong>Biochemistry 1</strong>: This course introduces the fundamental aspects of biological chemistry from both a biochemical and medical perspective. The course overviews the structure, function, and metabolism of biological molecules: carbohydrates, fatty acids, proteins and nucleic acids. It also evaluates, in detail, enzyme kinetics, including their activation, inhibition, and allosteric interactions in metabolic pathways of biological molecules and other physiological processes, as well as in the flow of genetic information. Students learn to elaborate on specific biochemical pathways and how they interface with human diseases, including disease etiology, diagnosis, and treatment. Students also learn to describe and apply biochemical concepts into scientific biomedical research.</p></div></li> 
 </ul>
 
 <ul>
-<li><div style="text-align:justify"><p>	<strong>Medical Biochemistry 2</strong>: The Medical Biochemistry 2 course builds on the concepts learned in Medical Biochemistry 1 to apply the chemistry of biomolecules from a tissue-, organ-specific, and clinical standpoints. Students implement higher levels of learning and knowledge dimensions to analyze clinical scenarios, evaluate possible biochemical outcomes, and how to address biochemical deficiency or malfunctions. As with Medical Biochemistry 1, students also elaborate on specific biochemical pathways and how they interface with human diseases, including disease etiology, diagnosis, and treatment, and apply biochemistry into scientific biomedical research.</p></div></li> 
+<li><div style="text-align:justify"><p>	<strong>Biochemistry 2</strong>: The Medical Biochemistry 2 course builds on the concepts learned in Medical Biochemistry 1 to apply the chemistry of biomolecules from a tissue-, organ-specific, and clinical standpoints. Students implement higher levels of learning and knowledge dimensions to analyze clinical scenarios, evaluate possible biochemical outcomes, and how to address biochemical deficiency or malfunctions. As with Medical Biochemistry 1, students also elaborate on specific biochemical pathways and how they interface with human diseases, including disease etiology, diagnosis, and treatment, and apply biochemistry into scientific biomedical research.</p></div></li> 
 </ul>
 
 <ul>
