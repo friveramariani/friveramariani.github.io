@@ -6,7 +6,7 @@ subtitle: Follow my Twitter posts!
 
 <a class="twitter-timeline" href="https://twitter.com/friveramariani?ref_src=twsrc%5Etfw">Tweets by friveramariani</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<b><i><a href="http://wwww.friveram.com">Click here to return to the Home Page</a></i></b>
+<b><i><a href="https://www.friveram.com">Click here to return to the Home Page</a></i></b>
 
 <br>
 ---

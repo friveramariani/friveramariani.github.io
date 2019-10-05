@@ -24,7 +24,7 @@ Access here our post, news, and updates we share with the Facebook community. In
 }(document, 'script', 'facebook-jssdk'));</script>
 
 
-<b><i><a href="http://wwww.friveram.com">Click here to return to the Home Page</a></i></b>
+<b><i><a href="https://www.friveram.com">Click here to return to the Home Page</a></i></b>
 
 <br>
 

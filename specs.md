@@ -79,7 +79,7 @@ subtitle: Find below additional training in public health, data science, and com
 + <a href="https://www.coursera.org/account/accomplishments/certificate/39X9PLSJGS2B" target="_blank">Bioinformatics VI (Finding Mutations in DNA and Proteins)</a>
 + Bioinformatics Capstone (Big Data in Biology)
 
-<b><i><a href="http://wwww.friveram.com">Click here to return to the Home Page</a></i></b>
+<b><i><a href="https://www.friveram.com">Click here to return to the Home Page</a></i></b>
 
 <br>
 

@@ -52,7 +52,7 @@ Other biological and non-biological data sciences
 - <a href="http://rpubs.com/friveramariani/dataproduct" target="_blank">Find other Data Science Projects here</a>
 - <a href="https://github.com/friveramariani" target="_blank">Find Biological and non-Biological Data Science codes here</a>
 
-<b><i><a href="http://wwww.friveram.com">Click here to return to the Home Page</a></i></b>
+<b><i><a href="https://www.friveram.com">Click here to return to the Home Page</a></i></b>
 
 <br>
 

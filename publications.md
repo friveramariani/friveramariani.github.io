@@ -107,9 +107,7 @@ need for further studies. <i>Aerobiologia</i>. 2012: 28(2): 83-97. <a href="http
 </ul>
 
 
-Find more of my publications <a href="https://www.researchgate.net/profile/Felix_Rivera-Mariani/publications" target="_blank">here</a>.
-
-<b><i><a href="http://wwww.friveram.com">Click here to return to the Home Page</a></i></b>
+<b><i><a href="https://www.friveram.com">Click here to return to the Home Page</a></i></b>
 
 <br>
 
