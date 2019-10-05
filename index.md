@@ -26,13 +26,18 @@ If you would like to collaborate in current and future projects, or learn more a
 
 <a href="mailto:friveram@riplrt.com" target="_blank" style="color:#515151;"><i class="fa fa-envelope" style="font-size:1em"></i> &nbsp;<b>my Email</b><br></a>
 
+<ul>
+<li><a href="https://twitter.com/friveramariani?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @friveramariani</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></li>
+</ul>
 
-<a href="https://twitter.com/friveramariani?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @friveramariani</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<ul>
+<li><a href="https://twitter.com/intent/tweet?screen_name=friveramariani&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-show-count="false">Tweet to @friveramariani</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></li>
+</ul> 
 
-<a href="https://twitter.com/intent/tweet?screen_name=friveramariani&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-show-count="false">Tweet to @friveramariani</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-
-<script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
-<script type="IN/MemberProfile" data-id="http://www.linkedin.com/in/felixeriveramariani" data-format="hover" data-related="false" data-text="Felix E. Rivera-Mariani, PhD"></script>
+<ul>
+<li><script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
+<script type="IN/MemberProfile" data-id="http://www.linkedin.com/in/felixeriveramariani" data-format="hover" data-related="false" data-text="Felix E. Rivera-Mariani, PhD"></script></li>
+</ul> 
 
 <ul>
 <li><div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-6671-0174" href="https://orcid.org/0000-0002-6671-0174" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0002-6671-0174</a></div></li>
