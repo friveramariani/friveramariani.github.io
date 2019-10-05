@@ -11,6 +11,12 @@ title: My Publications
 </ul>
 
 <ul>
+<li><div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://www.researchgate.net/profile/Felix_Rivera-Mariani" href="https://www.researchgate.net/profile/Felix_Rivera-Mariani" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://avatars0.githubusercontent.com/u/1073651?s=200&v=4" style="width:1em;margin-right:.5em;" alt="researchgate iD icon">ResearchGate Profile</a></div></li>
+</ul>
+
+https://www.researchgate.net/profile/Felix_Rivera-Mariani
+
+<ul>
 <li><div style="text-align:justify"><p>Rivera-Mariani, F. E., H. Srour, R. Fomenko, J. P. Maestre, K. Kinney, F. Godoy-Vitorino, B. Bolaños-Rosero, and H. Cavallin. 2019. “Pro-Inflammatory Potential of Indoor Dust Collected from Households in San Juan, Puerto Rico in the Aftermath of Hurricane Maria.” presented at the Society of Toxicology 2019, Late-Breaking Abstract Session (Abstract 3323), Baltimore, MD, March 14.</p></div></li> 
 </ul>
 
