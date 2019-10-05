@@ -3,17 +3,24 @@ layout: page
 title: Fellowships
 ---
 
-- **Programs to Increase Diversity Among Individuals Engaged in Health Related Research (PRIDE)**
-	+*Advanced Respiratory Research for Equity (AIRE) at the University of Arizona*
+
+<ul>
+<li><b>AZ-PRIDE AIRE: Programs to Increase Diversity Among Individuals Engaged in Health Related Research, <i>Advanced Respiratory Research for Equity (AIRE) at the University of Arizona</i></b></li>
+</ul>
 <img src="/img/AZ_PRIDE_AIRE_Fellowship.png" alt="AZ-PRIDE AIRE Fellowships" class="inline"/>
 
+---
 
-- **Postdoctoral Fellowships at the Bloomberg School of Public Health of the Johns Hopkins University**
+<ul>
+<li><b>Postdoctoral Fellowships at the <i>Bloomberg School of Public Health of the Johns Hopkins University</i></b></li>
+</ul>
 <img src="/img/JHSPH_Fellowship.jpg" alt="Science Teaching Fellowship at ASM" class="inline"/>
 
 ---
 
-- **Science Teaching Fellowship at the American Society for Microbiology**
+<ul>
+<li><b>Science Teaching Fellowship at the <i>American Society for Microbiology</i></b></li>
+</ul>
 <img src="/img/STF_ASM.jpg" alt="Science Teaching Fellowship at ASM" class="inline"/>
 
 ---
