@@ -11,11 +11,11 @@ title: My Publications
 </ul>
 
 <ul>
-<li><div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://www.researchgate.net/profile/Felix_Rivera-Mariani" href="https://www.researchgate.net/profile/Felix_Rivera-Mariani" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://avatars0.githubusercontent.com/u/1073651?s=200&v=4" style="width:4em;margin-right:.5em;" alt="researchgate iD icon">ResearchGate Profile</a></div></li>
+<li><div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://www.researchgate.net/profile/Felix_Rivera-Mariani" href="https://www.researchgate.net/profile/Felix_Rivera-Mariani" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://avatars0.githubusercontent.com/u/1073651?s=200&v=4" style="width:2em;margin-right:.5em;" alt="researchgate iD icon">ResearchGate Profile</a></div></li>
 </ul>
 
 <ul>
-<li><div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://publons.com/researcher/B-1578-2012/" href="https://publons.com/researcher/B-1578-2012/" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://en.wikipedia.org/wiki/File:Publons_logo.png" style="width:4em;margin-right:.5em;" alt="Publons_logo">Publons Profile</a></div></li>
+<li><div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://publons.com/researcher/B-1578-2012/" href="https://publons.com/researcher/B-1578-2012/" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://en.wikipedia.org/wiki/File:Publons_logo.png" style="width:2em;margin-right:.5em;" alt="publons iD icon">Publons Profile</a></div></li>
 </ul>
 
 <ul>
