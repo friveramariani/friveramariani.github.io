@@ -10,6 +10,8 @@ title: Felix E. Rivera-Mariani, PhD
 
 <p>I am also a strong supporter of reproducibility in sciences, and thus have gained specializations in <i>Data Science, Genomic Data Sciences, Executive Data Science, Software Development</i> (Johns Hopkins University), <i>Systems Biology</i> (Icahn School of Medicine at Mt. Sinai), and <i>Bioinformatics</i> (University of California at San Diego). Through these specializations, I have developed extensive experience as a programmer in the R, Python, and Matlab computer languages.</p>
 
+---
+
 ## Learn more about my...
 
 <a href="https://www.riplrt.com" target="_blank"> Research Team at Larkin University</a>
@@ -21,6 +23,8 @@ title: Felix E. Rivera-Mariani, PhD
 <a href="/blog" target="_blank">News and Blogs</a>
 
 <a href="/teaching" target="_blank">Courses I currently teach or have taught</a>
+
+---
 
 ## Collaboration 
 
@@ -53,6 +57,12 @@ If you would like to collaborate in current and future projects, or learn more a
 <li><div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://publons.com/researcher/B-1578-2012/" href="https://publons.com/researcher/B-1578-2012/" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="http://publishingsupport.iopscience.iop.org/wp-content/uploads/2017/10/alternative.png" style="width:2em;margin-right:.5em;" alt="publons iD icon">publons.com/researcher/B-1578-2012</a></div></li>
 </ul>
 
+---
+## Recent News and Blogs
+
+<p> <i>October 1st, 2019</i>. Thanks to the <a href="http://mbrs-rise.rcm.upr.edu/" target="_blank"> Researcn Initiation for Scientific Enhancement</a> (RISE) program at the University of Puerto Rico - Medical Sciences Campus Programa for their invitation to give a talk to the students of the RISE Program on how to integrate Biomedical Sciences into Environmental Health Studies.</p>
+
+<b><i><a href="https://www.friveram.com/2019-10-06-invited-speaker-at-uprcm-rise/" target="_blank">Read more about this news/blog here</a></i></b>.
 ---
 
 <font size="1">&#169; Felix E. Rivera-Mariani, PhD 2018 <i>The contents of this website reflect the views of the author and does not represent the views of my institution.</i>.</font>
