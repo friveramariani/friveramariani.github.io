@@ -63,6 +63,7 @@ If you would like to collaborate in current and future projects, or learn more a
 <p> <i>October 1st, 2019</i>. Thanks to the <a href="http://mbrs-rise.rcm.upr.edu/" target="_blank"> Researcn Initiation for Scientific Enhancement</a> (RISE) program at the University of Puerto Rico - Medical Sciences Campus Programa for their invitation to give a talk to the students of the RISE Program on how to integrate Biomedical Sciences into Environmental Health Studies.</p>
 
 <b><i><a href="https://www.friveram.com/2019-10-06-invited-speaker-at-uprcm-rise/" target="_blank">Read more about this news/blog here</a></i></b>.
+
 ---
 
 <font size="1">&#169; Felix E. Rivera-Mariani, PhD 2018 <i>The contents of this website reflect the views of the author and does not represent the views of my institution.</i>.</font>
