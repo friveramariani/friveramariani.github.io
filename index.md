@@ -61,7 +61,7 @@ If you would like to collaborate in current and future projects, or learn more a
 ## Recent News and Blogs
 
 <img src="/img/upr-rcm-rise.jpg" alt="UPR-RCM RISE" align="right" style="width: 30%; height: 30%; margin:8px"> 
-<p> <i>October 1st, 2019</i>. Thanks to the <a href="http://mbrs-rise.rcm.upr.edu/" target="_blank"> Researcn Initiation for Scientific Enhancement</a> (RISE) program at the University of Puerto Rico - Medical Sciences Campus Programa for their invitation to give a talk to the students of the RISE Program on how to integrate Biomedical Sciences into Environmental Health Studies.</p>
+<p> <i>October 1st, 2019</i>. Thanks to the <a href="http://mbrs-rise.rcm.upr.edu/" target="_blank"> Researcn Initiation for Scientific Enhancement</a> (RISE) program at the University of Puerto Rico - Medical Sciences Campus for their invitation to give a talk to the students of the RISE Program on how to integrate Biomedical Sciences into Environmental Health Studies.</p>
 
 <b><i><a href="https://www.friveram.com/2019-10-06-invited-speaker-at-uprcm-rise/" target="_blank">Read more about this news/blog here</a></i></b>.
 

@@ -4,9 +4,9 @@ title: Biomedical Sciences into Environmental Health Studies
 subtitle: Sharing career insights on how to expand our biomedical sciences training
 ---
 
-<p>I would like to thank the <a href="http://mbrs-rise.rcm.upr.edu/" target="_blank"> Researcn Initiation for Scientific Enhancement</a> (RISE) program at the University of Puerto Rico - Medical Sciences Campus Programa for their invitation to give a talk to the students of the RISE Program on how to integrate Biomedical Sciences into Environmental Health Studies. Also, for allowing me to be present at PhD-candidate Lorraine Nicole Vélez-Torres' thesis proposal.</p>
+<p>I would like to thank the <a href="http://mbrs-rise.rcm.upr.edu/" target="_blank"> Researcn Initiation for Scientific Enhancement</a> (RISE) program at the University of Puerto Rico - Medical Sciences Campus for their invitation to give a talk to the students of the RISE Program on how to integrate Biomedical Sciences into Environmental Health Studies. Also, for allowing me to be present at PhD-candidate Lorraine Nicole Vélez-Torres' thesis proposal.</p>
 
-It was great for to visit his alma mater and meet with colleagues Drs. Benjamin Bolanos Rosero (former PhD thesis mentor of Dr. Rivera-Mariani) and Filipa Godoy-Vitorino.
+It was great for me to visit his alma mater and meet with colleagues Drs. Benjamin Bolanos Rosero (former PhD thesis mentor of Dr. Rivera-Mariani) and Filipa Godoy-Vitorino.
 
 More importantly, congratulation to <a href="https://www.riplrt.com/members/#Past%20members%20of%20the%20RIPLRT" target="_blank">Lorraine Vélez-Torres</a> for the successful defense of her PhD thesis proposal! <a href="https://www.riplrt.com/2019-07-05-my-experience-at-riplrt/" target="_blank">Read here</a> about Lorraine's summer internship with my research team! 
 
