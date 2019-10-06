@@ -8,7 +8,7 @@ subtitle: Sharing career insights on how to expand our biomedical sciences train
 
 It was great for to visit his alma mater and meet with colleagues Drs. Benjamin Bolanos Rosero (former PhD thesis mentor of Dr. Rivera-Mariani) and Filipa Godoy-Vitorino.
 
-More importantly, congratulation to <a href="https://www.riplrt.com/members/#Past%20members%20of%20the%20RIPLRT" target="_blank">Lorraine Vélez-Torres</a> for the successful defense of her PhD thesis proposal!
+More importantly, congratulation to <a href="https://www.riplrt.com/members/#Past%20members%20of%20the%20RIPLRT" target="_blank">Lorraine Vélez-Torres</a> for the successful defense of her PhD thesis proposal! <a href="https://www.riplrt.com/2019-07-05-my-experience-at-riplrt/" target="_blank">Read here</a> about Lorraine's summer internship with my research team! 
 
 <img src="/img/upr-rcm-rise.jpg" alt="UPR-RCM RISE Announcement Dr. Rivera-Mariani" class="inline"/>
 
