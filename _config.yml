@@ -32,11 +32,13 @@ navbar-links:
     - Publications: "publications" 
     - Data Science: "datasci"
     - Teaching: "teaching"
+    - Science Communication: "https://wwww.vistazoalaciencia.com"
   News/Blog: "blog"
   Social: 
     - Twitter: "twitter"
     - Facebook: "facebook"
   My Research Lab: "https://www.riplrt.com"
+  Science Communication: "https://wwww.vistazoalaciencia.com"
 
 
 
