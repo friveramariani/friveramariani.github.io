@@ -34,6 +34,9 @@ Bianca is a 6<sup>th</sup> year Ph.D. candidate at the Department of Biology of 
 
 <div style="text-align:justify"><p>Currently she’s the Co-Director of the Puerto Rico Science Policy Action Network (PR-SPAN) where she promotes public politics based on scientific evidence. Outside academia, Bianca enjoys watching Netflix, going to the beach and exercise.</p></div> 
 
+<a href="https://www.friveram.com/CV/Curriculum Vitae 2019-2020_Redacted.pdf" target="_blank">Click here</a> to view Bianca's C.V.
+
+
 ---
 
 <img src="/img/Lorraine.jpeg" alt="Lorraine N. Vélez-Torres" align="right" style="width: 30%; height: 30%; margin:8px"> 
