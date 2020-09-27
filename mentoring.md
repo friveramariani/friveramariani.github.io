@@ -17,7 +17,17 @@ title: Mentoring and Mentees
 ---
 
 <header>
-	<h1>Current Mentees</h1>
+	<h1>Below on this page you will find</h1>
+</header>>
+
+- [Current Mentees](#Current Mentees)
+- [Current Mentees within my lab](#Current Mentees within my lab)
+- [Past Mentees](#Past Mentees)
+
+---
+
+<header>
+	<h1><a name="Current Mentees"></a><i><b>Current Mentees</b></i></h1>
 </header>
 
 <img src="/img/Lorraine.jpeg" alt="Lorraine N. Vélez-Torres" align="right" style="width: 30%; height: 30%; margin:8px"> 
@@ -41,8 +51,9 @@ Lorraine is a third-year Ph.D. candidate in the Department of Microbiology and M
 ---
 
 <header>
-	<h1>Current Mentees within my lab: <a href="https://www.riplrt.com/members/">Respiratory and Immunology Project and Laboratory</a></h1>
+	<h1><a name="Current Mentees within my lab"></a><i><b>Current Mentees within my lab</b></i> <a href="https://www.riplrt.com/members/">Respiratory and Immunology Project and Laboratory</h1>
 </header>
+
 
 ---
 <img src="/img/brie.JPG" alt="Brie Perdue" align="right" style="width: 30%; height: 30%; margin:8px"> 
@@ -114,7 +125,7 @@ Lorraine is a third-year Ph.D. candidate in the Department of Microbiology and M
 <hr>
 
 <header>
-	<h1>Past Mentees</h1>
+	<h1><a name="Past Mentees"></a><i><b>Past Mentees</b></i></h1>
 </header>
 
 <img src="/img/Hayat.jpg" alt="Hayat Srour" align="right" style="width: 10%; height: 10%; margin:8px">
