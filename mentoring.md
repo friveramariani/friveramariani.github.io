@@ -16,9 +16,7 @@ title: Mentoring and Mentees
 
 ---
 
-<header>
-	<h1>Below on this page you will find</h1>
-</header>>
+Below on this mentoring page you wiill find:
 
 - [Current Mentees](#Current Mentees)
 - [Current Mentees within my lab](#Current Mentees within my lab)
@@ -51,9 +49,10 @@ Lorraine is a third-year Ph.D. candidate in the Department of Microbiology and M
 ---
 
 <header>
-	<h1><a name="Current Mentees within my lab"></a><i><b>Current Mentees within my lab</b></i> <a href="https://www.riplrt.com/members/">Respiratory and Immunology Project and Laboratory</h1>
+	<h1><a name="Current Mentees within my lab"></a><i><b>Current Mentees within my lab</b></i></h1> 
 </header>
 
+<a href="https://www.riplrt.com/members/">Respiratory and Immunology Project and Laboratory </a>
 
 ---
 <img src="/img/brie.JPG" alt="Brie Perdue" align="right" style="width: 30%; height: 30%; margin:8px"> 
