@@ -12,7 +12,7 @@ title: Mentoring and Mentees
 
 <img src="/img/mentoring_skills_model.jpg" alt="Mentoring Skills Model" class="center"/>  
 
-<i>Source: https://my.lerner.udel.edu/wp-content/uploads/Skills_for_Sucessful_Mentoring.pdf</i>
+<i>Source: <a href="https://my.lerner.udel.edu/wp-content/uploads/Skills_for_Sucessful_Mentoring.pdf" target="_blank">https://my.lerner.udel.edu/wp-content/uploads/Skills_for_Sucessful_Mentoring.pdf</a></i>
 
 ---
 
