@@ -44,7 +44,7 @@ Lorraine is a 3<sup>rd</sup> Ph.D. candidate in the Department of Microbiology a
 
 <div style="text-align:justify"><p> Because Dr. Rivera-Mariani is a member of the thesis committee of Lorraine, she was invited for and completed a one-week training with the RIPLRT to learn the different human-based immunological approaches we implement in environmental health studies. Also, she trained on the experimental planning and design, project management and execution, as well as data management and analysis we implement when deploying human-based immunological approaches to study the respiratory health risks resulting from human exposures to air pollution. Lorraine will be implementing in her thesis studies the skill sets she will learned with the RIPLRT.</p></div> 
 
-<a href="https://www.friveram.com/CV_Lorraine_Redacted.pdf" target="_blank">Click here</a> to view Lorraine's C.V.
+<a href="https://www.friveram.com/CV/CV_Lorraine_Redacted.pdf" target="_blank">Click here</a> to view Lorraine's C.V.
 
 ---
 
@@ -52,6 +52,8 @@ Lorraine is a 3<sup>rd</sup> Ph.D. candidate in the Department of Microbiology a
 <div style="text-align:justify"><p><a name="Xaymara Hernández-González"></a><i><b>Xaymara Hernández-González (Masters Student - University of Puerto Rico - Medical Sciences Campus)</b></i>. <i>Xaymara</i> is from a small town (Humacao) located in the east coast of Puerto Rico. She completed a Bachelor degree in Microbiology at the University of Puerto Rico in Humacao. During her undergraduate years, she had the opportunity to participate in research investigations trying to isolate potential antimicrobial producing bacterias and nitrogen fixing bacterias. She was part of the Student Microbiology Chapter and the American Student Medical Association. Right now, Xaymara is a third year graduate student at University Of Puerto Rico-Medical and Science Campus. She is completing a M.S. in Microbiology and Medical Zoology. Currently, she is working on her thesis project  at the Mycology Laboratory of Dr. Benjamin Bolanos. Her thesis investigations focus on investigating the role of aeroallergens such as pollen and fungal spores in the susceptibility to acquired Covid-19. </p></div>
 
 <div style="text-align:justify"><p>During the past three years, she had the opportunity to collaborate in the project "Taking a breath after Hurricane Maria" taking air samples from water damaged houses and identifying fungus captured from the air samples.  Also, she is working in analyzing data from air samples captured from houses located in the community of Pinones in Loiza, Puerto Rico.  Currently, she is part of the directive of the Microbiology Chapter at the UPR-RCM and is the representative of the master students at the graduate committee.  Besides academia, Xaymara enjoys exercising, doing road trips and reading. She pursues to continue graduate studies.</p></div>
+
+<a href="https://www.friveram.com/CV/CV-Xaymara Hernandez.pdf" target="_blank">Click here</a> to view Xaymara's C.V.
 
 
 ---
