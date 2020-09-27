@@ -33,7 +33,7 @@ Lorraine is a third-year Ph.D. candidate in the Department of Microbiology and M
 ---
 
 <img src="/img/xaymara.jpeg" alt="Xaymara Hernández-González" align="right" style="width: 30%; height: 30%; margin:8px"> 
-<div style="text-align:justify"><p><a name="Xaymara Hernández-González"></a><i><b>Xaymara Hernández-González</b></i>. <i>Xaymara</i> is from a small town (Humacao) located in the east coast of Puerto Rico. She completed a Bachelor degree in Microbiology at the University of Puerto Rico in Humacao. During her undergraduate years, she had the opportunity to participate in research investigations trying to isolate potential antimicrobial producing bacterias and nitrogen fixing bacterias. She was part of the Student Microbiology Chapter and the American Student Medical Association. Right now, Xaymara is a third year graduate student at University Of Puerto Rico-Medical and Science Campus. She is completing a M.S. in Microbiology and Medical Zoology. Currently, she is working on her thesis project  at the Mycology Laboratory of Dr. Benjamin Bolanos. Her thesis investigations focus on investigating the role of aeroallergens such as pollen and fungal spores in the susceptibility to acquired Covid-19. </p></div>
+<div style="text-align:justify"><p><a name="Xaymara Hernández-González"></a><i><b>Xaymara Hernández-González (Masters Student - University of Puerto Rico - Medical Sciences Campus)</b></i>. <i>Xaymara</i> is from a small town (Humacao) located in the east coast of Puerto Rico. She completed a Bachelor degree in Microbiology at the University of Puerto Rico in Humacao. During her undergraduate years, she had the opportunity to participate in research investigations trying to isolate potential antimicrobial producing bacterias and nitrogen fixing bacterias. She was part of the Student Microbiology Chapter and the American Student Medical Association. Right now, Xaymara is a third year graduate student at University Of Puerto Rico-Medical and Science Campus. She is completing a M.S. in Microbiology and Medical Zoology. Currently, she is working on her thesis project  at the Mycology Laboratory of Dr. Benjamin Bolanos. Her thesis investigations focus on investigating the role of aeroallergens such as pollen and fungal spores in the susceptibility to acquired Covid-19. </p></div>
 
 <div style="text-align:justify"><p>During the past three years, she had the opportunity to collaborate in the project "Taking a breath after Hurricane Maria" taking air samples from water damaged houses and identifying fungus captured from the air samples.  Also, she is working in analyzing data from air samples captured from houses located in the community of Pinones in Loiza, Puerto Rico.  Currently, she is part of the directive of the Microbiology Chapter at the UPR-RCM and is the representative of the master students at the graduate committee.  Besides academia, Xaymara enjoys exercising, doing road trips and reading. She pursues to continue graduate studies.</p></div>
 
@@ -107,7 +107,86 @@ Lorraine is a third-year Ph.D. candidate in the Department of Microbiology and M
 
 <div style="text-align:justify"><p>Her passion for learning and working in a team setting is what drove her to join the RIPLRT research team. She is hoping to use the knowledge she gains from research for her future career as a dentist. She decided dentistry was the career for her after spending a few summers working at a dental practice and seeing how greatly a better smile can impact someone’s life.</p></div>
 
+---
 
+<br>
+
+<hr>
+
+<header>
+	<h1>Past Mentees</h1>
+</header>
+
+<img src="/img/Hayat.jpg" alt="Hayat Srour" align="right" style="width: 10%; height: 10%; margin:8px">
+<div style="text-align:justify"><p><a name="Hayat Srour"></a><i><b>Hayat Srour (Research Assistant and Lab Manager 2018 - 2020)</b></i>. Hayat, from Detroit, Michigan, is also a graduate from the M.S. in Biomedical Sciences program at Larkin University. She is currently in the application cycle for med schools. </p></div>
+
+---
+
+<img src="/img/AdriaGuajardo.JPG" alt="Adria Guajardo" align="right" style="width: 10%; height: 10%; margin:8px"> 
+<div style="text-align:justify"><p><a name="Adria Guajardo"></a><i><b>Adria Guajardo (Graduate Research Assistant 2019 - 2020)</b></i> is originally from Texas, and is currently in the application cycle for Physician Assistant schools. </p></div>
+
+---
+
+<img src="/img/Ariel.jpg" alt="Ariel Stateman" align="right" style="width: 10%; height: 10%; margin:8px"> 
+<div style="text-align:justify"><p><a name="Ariel Stateman"></a><i><b>Ariel Stateman</b></i> graduated from the M.S. in Biomedical Sciences program at Larkin University (2019), and a former co-leader and Research Assistant (2018 - 2019) of the RIPLRT. </p></div>
+
+---
+<img src="/img/BPatel.jpg" alt="Bhavikkumar Patel" align="right" style="width: 10%; height: 10%; margin:8px"> 
+<div style="text-align:justify"><p><a name="Bhavikkumar Patel"></a><i><b>Bhavikkumar Patel</b></i> graduated from the M.S. in Biomedical Sciences program at Larkin University, and former gradaute research assistant of the RIPLRT (Jan 2019 - Aug 2019). Vik is currently a pharmacy student at Midwestern University. </p></div>
+
+---
+
+<img src="/img/DonnaOh.jpg" alt="Donna Oh" align="right" style="width: 10%; height: 10%; margin:8px"> 
+<div style="text-align:justify"><p><a name="Donna Oh"></a><i><b>Donna Oh (Graduate Research Assistant 2019 - 2020)</b></i> was a former co-leader in the RIPLRT, is originally from Anchorage, Alaska, and she is currently in the application cycle for medical schools. </p></div>
+
+
+---
+
+<img src="/img/Joshua.jpeg" alt="Joshua Baguley" align="right" style="width: 10%; height: 10%; margin:8px"> 
+<div style="text-align:justify"><p><a name="Joshua Baguley"></a><i><b>Joshua Baguley</b></i> is originally from Indonesia, a former co-leader of the RIPLRT (2018-2019), and currently works at MD Anderson Cancer Center.</p></div>
+
+---
+
+<img src="/img/KylieDaguio.png" alt="Kylie Daguio" align="right" style="width: 10%; height: 10%; margin:8px"> 
+<div style="text-align:justify"><p><a name="Kylie Daguio"></a><i><b>Kylie Dagiuo (Graduate Research Assistant 2019 - 2020)</b></i> is originally from Hawaii, and she is currently in the application cycle for medical schools. Great laboratory techniques!!!</p></div>
+
+---
+
+<img src="/img/naziba1.jpeg" alt="Naziba Nuha" align="right" style="width: 10%; height: 10%; margin:8px"> 
+<div style="text-align:justify"><p><a name="Naziba Nuha"></a><i><b>Naziba Nuha (Summer Intern - 2019)</b></i> is a former summer intern, and she is currently a junior at Nova Southeastern University and she is pursuing her Bachelor of Science in Biology and Mathematics with a minor in Chemistry. </p></div>
+
+---
+
+<img src="/img/NicoleBenavides.jpg" alt="Nicole Benavides" align="right" style="width: 10%; height: 10%; margin:8px"> 
+<div style="text-align:justify"><p><a name="Nicole Benavides"></a><i><b>Nicole Benavides (Graduate Research Assistant 2019 - 2020)</b></i> was a former co-leader in the RIPLRT, is originally from Virginia, and is currently in the application cycle for med schools.</p></div>
+
+---
+
+<img src="/img/Ruslan.jpg" alt="Ruslan Fomentko" align="right" style="width: 10%; height: 10%; margin:8px"> 
+<div style="text-align:justify"><p><a name="Ruslan Fomenko"></a><i><b>Ruslan Fomenko (Research Assistant)</b></i>. Ruslan graduated from the M.S. in Biomedical Sciences at Larkin University (2019), and he is currently in dental school (Midwestern University Dental School).</p></div>  
+
+---
+
+<img src="/img/Shandra.jpeg" alt="Shandra Bellinger" align="right" style="width: 10%; height: 10%; margin:8px"> 
+<div style="text-align:justify"><p><a name="Shandra Bellinger"></a><i><b>Shandra Bellinger</b></i> graduated from the M.S. in Biomedical Sciences program at Larkin University, and she is currently 2nd year med student (University of Medicine and Health Sciences).</p></div>  
+
+---
+
+<img src="/img/ShanaZadron.png" alt="Shana Zadron" align="right" style="width: 10%; height: 10%; margin:8px"> 
+<div style="text-align:justify"><p><a name="Shana Zadron"></a><i><b>Shana Zadron (Graduate Research Assistants 2019 - 2020)</b></i> is originally from Afghanistan, and moved at a young age to the US. She is currently in the med schools' application cycle.</p></div> 
+
+---
+
+<img src="/img/Summer.png" alt="Summer Pellechio" align="right" style="width: 10%; height: 10%; margin:8px"> 
+<div style="text-align:justify"><p><a name="Summer Pellechio"></a><i><b>Summer Pellechio </b></i> was a research assistant (2019) and she is currently in Phyican Assistant school.</p></div> 
+
+---
+<img src="/img/Tanha.jpeg" alt="Tanha Rahman" align="right" style="width: 10%; height: 10%; margin:8px"> 
+<div style="text-align:justify"><p><a name="Tanha Rahman"></a><i><b>Tanha Rahman (Summer Intern - 2019).</b></i> Similar to Naziba, Tanha is also an undergraduate (third-year) student at Nova Southeastern University. She is pursuing her Bachelor of Science in Business Management and Biology (pre-medicine track) with a minor in International Studies.</p></div>
+
+<br>
+
+<hr>
 ---
 
 <font size="1">&#169; Felix E. Rivera-Mariani, PhD 2018 <i>The contents of this website reflect the views of the author and does not represent the views of my institution.</i>.</font>
