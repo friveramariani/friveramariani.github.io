@@ -25,9 +25,9 @@ title: Felix E. Rivera-Mariani, PhD
 
 ---
 
-## Contact, Social Media Channels, and Research Links 
+## Contact and Social Media Channels 
 
-If you would like to collaborate in current and future projects, or learn more about my scientific and pedagogical endeavors, feel free to reach out or follow at:
+If you would like to collaborate in current and future projects, feel free to reach out or follow at:
 
 <ul>
 	<li><a href="mailto:friveram@riplrt.com" target="_blank" style="color:#515151;"><i class="fa fa-envelope" style="font-size:1em"></i> &nbsp;<b>my Email</b><br></a></li>
