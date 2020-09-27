@@ -16,7 +16,7 @@ title: Mentoring and Mentees
 
 ---
 
-Below on this mentoring page you wiill find:
+<b>Below on this mentoring page you wiill find:</b>
 
 - [Current Mentees](#Current Mentees)
 - [Current Mentees within my lab](#Current Mentees within my lab)
