@@ -14,15 +14,14 @@ title: Felix E. Rivera-Mariani, PhD
 
 ## Learn more about my...
 
-<a href="https://www.riplrt.com" target="_blank"> Research Team at Larkin University</a>
-
-<a href="/publications">Publications</a>
-
-<a href="/datasci" target="_blank">Computational approaches</a>
-
-<a href="/blog" target="_blank">News and Blogs</a>
-
-<a href="/teaching" target="_blank">Courses I currently teach or have taught</a>
+<ul>
+	<li><a href="https://www.riplrt.com" target="_blank"> Research Team at Larkin University</a></li>
+	<li><a href="/mentoring">Mentees</a></li>
+	<li><a href="/publications">Publications</a></li>
+	<li><a href="/datasci" target="_blank">Computational approaches</a></li>
+	<li><a href="/blog" target="_blank">News and Blogs</a></li>
+	<li><a href="/teaching" target="_blank">Courses I currently teach or have taught</a></li>
+</ul>
 
 ---
 
