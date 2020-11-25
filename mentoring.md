@@ -10,7 +10,7 @@ title: Mentoring and Mentees
 <p>A good scientist does not becomes a mentor by default; a good teacher does not becomes a mentor by default. <b>Becoming a good mentor</b> involves developing a series of skillsets that go beyond simlpy telling and teaching someone:</p>
 
 
-<img src="/img/mentoring_skills_model.jpg" alt="Mentoring Skills Model" class="center"/>  
+<img src="/img/mentoring_skills.png" alt="Mentoring Skills Model" class="center"/>  
 
 <i>Source: <a href="https://my.lerner.udel.edu/wp-content/uploads/Skills_for_Sucessful_Mentoring.pdf" target="_blank">https://my.lerner.udel.edu/wp-content/uploads/Skills_for_Sucessful_Mentoring.pdf</a></i>
 
