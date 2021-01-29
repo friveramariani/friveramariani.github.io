@@ -30,7 +30,7 @@ title: Felix E. Rivera-Mariani, PhD
 If you would like to collaborate in current and future projects, feel free to reach out or follow at:
 
 <ul>
-	<li><a href="mailto:friveram@riplrt.com" target="_blank" style="color:#515151;"><i class="fa fa-envelope" style="font-size:1em"></i> &nbsp;<b>my Email</b><br></a></li>
+	<li><a href="mailto:felixrm@friveram.com" target="_blank" style="color:#515151;"><i class="fa fa-envelope" style="font-size:1em"></i> &nbsp;<b>my Email</b><br></a></li>
 	<li><a href="https://twitter.com/friveramariani?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @friveramariani</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></li>
 	<li><a href="https://twitter.com/intent/tweet?screen_name=friveramariani&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-show-count="false">Tweet to @friveramariani</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></li>
  	<li><script src="//platform.linkedin.com/in.js" type="text/javascript"></script><script type="IN/MemberProfile" data-id="http://www.linkedin.com/in/felixeriveramariani" data-format="hover" data-related="false" data-text="Felix E. Rivera-Mariani, PhD"></script></li>
@@ -39,10 +39,10 @@ If you would like to collaborate in current and future projects, feel free to re
 ---
 ## Recent News and Blogs
 
-<img src="/img/upr-rcm-rise.jpg" alt="UPR-RCM RISE" align="right" style="width: 30%; height: 30%; margin:8px"> 
-<p> <i>October 1st, 2019</i>. Thanks to the <a href="http://mbrs-rise.rcm.upr.edu/" target="_blank"> Researcn Initiation for Scientific Enhancement</a> (RISE) program at the University of Puerto Rico - Medical Sciences Campus for their invitation to give a talk to the students of the RISE Program on how to integrate Biomedical Sciences into Environmental Health Studies.</p>
+<img src="/img/pmctrp_seminar.jpeg" alt="Semianr at UPR-RCM Postdoctoral MS in Clinical and Translational Sciences" align="right" style="width: 30%; height: 30%; margin:8px"> 
+<p> <i>October 1st, 2019</i>. Thanks to the <a href="https://eps.rcm.upr.edu/post-doctoral-master-of-science-in-clinical-and-translational-research/" target="_blank"> Postdoctoral Master in Clinical and Translational Sciences of the University of Puerto Rico Medical Sciences Campus</a> for their invitation to give a talk to their postdoctoral fellows.</p>
 
-<b><i><a href="https://www.friveram.com/2019-10-06-invited-speaker-at-uprcm-rise/" target="_blank">Read more about this news/blog here</a></i></b>.
+<b><i><a href="https://www.friveram.com/2020-10-16-seminar-uprrcm-postdoctoral-master/" target="_blank">Read more about this news/blog here</a></i></b>.
 
 ---
 
