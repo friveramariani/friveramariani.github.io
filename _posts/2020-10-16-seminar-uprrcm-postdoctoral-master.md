@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Biomedical Sciences into Environmental Health Studies
-subtitle: Sharing career insights on how to expand our biomedical sciences training
+title: Reconociendo mis Límites e Identificando Soluciones
+subtitle: Mi trayectoria científica parece pero no es un a línea recta
 ---
 
 <p> English translation of the titles and subtitles:</p>
