@@ -16,7 +16,7 @@ subtitle: Below are listed current or past fellowships and training opportunitie
 </ul>
 
 <ul>
-<li><b><i>AZ-PRIDE AIRE: Programs to Increase Diversity Among Individuals Engaged in Health Related Research, Advanced Respiratory Research for Equity (AIRE) at the University of Arizona</i></b>. <a href="https://azpride.uahs.arizona.edu/aire-overview" target="_blank">Click here for more information</a></i></b>
+<li><b><i>AZ-PRIDE AIRE: Programs to Increase Diversity Among Individuals Engaged in Health Related Research, Advanced Respiratory Research for Equity (AIRE) at the University of Arizona</i></b>. <a href="https://azpride.uahs.arizona.edu/aire-overview" target="_blank">Click here for more information</a>.
 </li>
 </ul>
 
