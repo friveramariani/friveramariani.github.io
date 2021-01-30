@@ -10,6 +10,9 @@ title: My Publications
 <li><div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-6671-0174" href="https://orcid.org/0000-0002-6671-0174" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0002-6671-0174</a></div></li>
 </ul>
 
+<script src="https://apps.elfsight.com/p/platform.js" defer></script>
+<div class="elfsight-app-6458f1c2-738e-40ed-b7a0-7379c0377dff"></div>
+
 <ul>
 <li><div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://www.researchgate.net/profile/Felix_Rivera-Mariani" href="https://www.researchgate.net/profile/Felix_Rivera-Mariani" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://avatars0.githubusercontent.com/u/1073651?s=200&v=4" style="width:2em;margin-right:.5em;" alt="researchgate iD icon">www.researchgate.net/profile/Felix_Rivera-Mariani</a></div></li>
 </ul>
@@ -19,11 +22,11 @@ title: My Publications
 </ul>
 
 <ul>
-<li><div style="text-align:justify"><p>Vélez-Torres L, Bolaños-Rosero B, Godoy-Vitorino F, Rivera-Mariani FE, Maestre J, Kinney KA, Cavallin H. Culture-Based Characterization of Fungal Communities in Homes in San Juan, Puerto Rico following Hurricane Maria. Applied and Environmental Microbiology. Submitted.</p></div></li>
+<li><div style="text-align:justify"><p>Vélez-Torres L, Bolaños-Rosero B, Godoy-Vitorino F, Rivera-Mariani FE, Maestre J, Kinney KA, Cavallin H. Culture-Based Characterization of Fungal Communities in Homes in San Juan, Puerto Rico following Hurricane Maria. <i>Applied and Environmental Microbiology</i>. Submitted.</p></div></li>
 </ul> 
 
 <ul>
-<li><div style="text-align:justify"><p>Rivera-Mariani FE, Almaguer M, Jesus Aira M, Bolaños-Rosero B. Comparison of atmospheric fungal spore concentrations between two main cities in the Caribbean basin. PR Health Sci J. 2020 Sep;39(3):235-242.(<a href="https://pubmed.ncbi.nlm.nih.gov/33031690/" target="_blank">click here to access the publication</a>).</p></div></li>
+<li><div style="text-align:justify"><p>Rivera-Mariani FE, Almaguer M, Jesus Aira M, Bolaños-Rosero B. Comparison of atmospheric fungal spore concentrations between two main cities in the Caribbean basin. <i>PR Health Sci J</i>. 2020 Sep;39(3):235-242.(<a href="https://pubmed.ncbi.nlm.nih.gov/33031690/" target="_blank">click here to access the publication</a>).</p></div></li>
 </ul>
 
 <ul>
