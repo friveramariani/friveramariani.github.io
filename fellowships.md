@@ -9,7 +9,7 @@ Below are listed current or past fellowships and training opportunities.
 <div class="elfsight-app-6458f1c2-738e-40ed-b7a0-7379c0377dff"></div>
 
 <ul>
-<li><b>AZ-PRIDE AIRE: Programs to Increase Diversity Among Individuals Engaged in Health Related Research, <i>Advanced Respiratory Research for Equity (AIRE) at the University of Arizona. <a href="https://icre.pitt.edu/leads/index.html" target="_blank">Click here for more information</a>. </i></b></li>
+<li><b>Leading Emerging and Diverse Scientists to Success (LEADS)a at the University of Pittsburgh, Institute of Clinical Research Education. <a href="https://icre.pitt.edu/leads/index.html" target="_blank">Click here for more information</a>. </i></b></li>
 </ul>
 
 <ul>
