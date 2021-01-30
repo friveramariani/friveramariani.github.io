@@ -4,10 +4,12 @@ title: My Research Group in Facebook
 subtitle: Access and follow here our Facebook page!
 ---
 
-Access here our post, news, and updates we share with the Facebook community. In the RIPLRT Facebook page, we share 
-
 <script src="https://apps.elfsight.com/p/platform.js" defer></script>
 <div class="elfsight-app-6458f1c2-738e-40ed-b7a0-7379c0377dff"></div>
+
+<br>
+
+Access here our post, news, and updates we share with the Facebook community. In the RIPLRT Facebook page, we share 
 
 - RIPLRT news
 - RIPLRT events

@@ -3,6 +3,10 @@ layout: page
 title: My Science Teaching
 ---
 
+<script src="https://apps.elfsight.com/p/platform.js" defer></script>
+<div class="elfsight-app-6458f1c2-738e-40ed-b7a0-7379c0377dff"></div>
+
+<br>
 
 Find in this page information about 
 
@@ -10,8 +14,6 @@ Find in this page information about
 - Workshops taught 
 - Published reports and articles on Science Education
 
-<script src="https://apps.elfsight.com/p/platform.js" defer></script>
-<div class="elfsight-app-6458f1c2-738e-40ed-b7a0-7379c0377dff"></div>
 
 #### Courses (at the College of Biomedical Sciences of Larkin University)
 

@@ -3,12 +3,13 @@ layout: page
 title: Mentoring and Mentees
 ---
 
+<script src="https://apps.elfsight.com/p/platform.js" defer></script>
+<div class="elfsight-app-6458f1c2-738e-40ed-b7a0-7379c0377dff"></div>
+
+<br>
 
 <p>“Tell me and I forget.  Teach me and I may remember.  Involve me and I learn.” </p>
 -- Benjamin Franklin
-
-<script src="https://apps.elfsight.com/p/platform.js" defer></script>
-<div class="elfsight-app-6458f1c2-738e-40ed-b7a0-7379c0377dff"></div>
 
 <p>A good scientist does not becomes a mentor by default; a good teacher does not becomes a mentor by default. <b>Becoming a good mentor</b> involves developing a series of skillsets that go beyond simlpy telling and teaching someone:</p>
 

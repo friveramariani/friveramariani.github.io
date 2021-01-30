@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Fellowships
+subtitle: Below are listed current or past fellowships and training opportunities.
 ---
 
-Below are listed current or past fellowships and training opportunities.
 
 <script src="https://apps.elfsight.com/p/platform.js" defer></script>
 <div class="elfsight-app-6458f1c2-738e-40ed-b7a0-7379c0377dff"></div>

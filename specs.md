@@ -7,6 +7,7 @@ subtitle: Find below additional training in public health, data science, and com
 <script src="https://apps.elfsight.com/p/platform.js" defer></script>
 <div class="elfsight-app-6458f1c2-738e-40ed-b7a0-7379c0377dff"></div>
 
+<br>
 
 #### Public Health-Related Statistical Training
 + <a href="https://felix-riveramariani-ms9j.squarespace.com/s/2016-03-30_14-19-41.jpg" target="_blank">Statistical Reasoning for Public Health I</a> (Johns Hopkins University on <a href="www.coursera.org" target="_blank">www.coursera.org</a>)
