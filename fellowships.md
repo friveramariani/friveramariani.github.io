@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Fellowships
-subtitle: Below are listed current or past fellowships and training opportunities.
+subtitle: Below are listed current or past fellowships and training opportunities
 ---
 
 
