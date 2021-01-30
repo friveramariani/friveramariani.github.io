@@ -18,14 +18,14 @@ title: Mentoring and Mentees
 
 <b>Below on this mentoring page you wiill find:</b>
 
-- [Current Mentees](#Current Mentees)
+- [Current Mentees - Graduate Students](#Current Mentees - Graduate Students)
 - [Current Mentees within my lab](#Current Mentees within my lab)
 - [Past Mentees](#Past Mentees)
 
 ---
 
 <header>
-	<h1><a name="Current Mentees"></a><i><b>Current Mentees</b></i></h1>
+	<h1><a name="Current Mentees"></a><i><b>Current Mentees - Graduate Students</b></i></h1>
 </header>
 
 <img src="/img/Bianca.png" alt="Bianca N. Valdes-Fernández" align="right" style="width: 30%; height: 30%; margin:8px"> 
