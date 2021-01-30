@@ -11,13 +11,14 @@ subtitle: Below are listed current or past fellowships and training opportunitie
 <br>
 
 <ul>
-<li><b><i>Leading Emerging and Diverse Scientists to Success (LEADS)a at the University of Pittsburgh, Institute of Clinical Research Education. <a href="https://icre.pitt.edu/leads/index.html" target="_blank">Click here for more information</a>. </i></b></li>
+<li><b><i>Leading Emerging and Diverse Scientists to Success (LEADS)a at the University of Pittsburgh, Institute of Clinical Research Education</i></b>. <a href="https://icre.pitt.edu/leads/index.html" target="_blank">Click here for more information</a>.
+</li>
 </ul>
 
 <ul>
-<li><b>AZ-PRIDE AIRE: Programs to Increase Diversity Among Individuals Engaged in Health Related Research, <i>Advanced Respiratory Research for Equity (AIRE) at the University of Arizona.</i></b></li>
+<li><b><i>AZ-PRIDE AIRE: Programs to Increase Diversity Among Individuals Engaged in Health Related Research, Advanced Respiratory Research for Equity (AIRE) at the University of Arizona</i></b>. <a href="https://azpride.uahs.arizona.edu/aire-overview" target="_blank">Click here for more information</a></i></b>
+</li>
 </ul>
-<img src="/img/AZ_PRIDE_AIRE_Fellowship.png" alt="AZ-PRIDE AIRE Fellowships" class="inline"/>
 
 ---
 
