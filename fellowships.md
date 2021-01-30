@@ -3,6 +3,14 @@ layout: page
 title: Fellowships
 ---
 
+Below are listed current or past fellowships and training opportunities.
+
+<script src="https://apps.elfsight.com/p/platform.js" defer></script>
+<div class="elfsight-app-6458f1c2-738e-40ed-b7a0-7379c0377dff"></div>
+
+<ul>
+<li><b>AZ-PRIDE AIRE: Programs to Increase Diversity Among Individuals Engaged in Health Related Research, <i>Advanced Respiratory Research for Equity (AIRE) at the University of Arizona. <a href="https://icre.pitt.edu/leads/index.html" target="_blank">Click here for more information</a>. </i></b></li>
+</ul>
 
 <ul>
 <li><b>AZ-PRIDE AIRE: Programs to Increase Diversity Among Individuals Engaged in Health Related Research, <i>Advanced Respiratory Research for Equity (AIRE) at the University of Arizona</i></b></li>
@@ -29,4 +37,4 @@ title: Fellowships
 
 <br>
 
-<font size="1">&#169; Felix E. Rivera-Mariani, PhD 2018 <i>The contents of this website reflect the views of the author and does not represent the views of my institution.</i>.</font>
+<font size="1">&#169; Felix E. Rivera-Mariani, PhD 2021 <i>The contents of this website reflect the views of the author and does not represent the views of my institution.</i>.</font>

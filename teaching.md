@@ -10,6 +10,9 @@ Find in this page information about
 - Workshops taught 
 - Published reports and articles on Science Education
 
+<script src="https://apps.elfsight.com/p/platform.js" defer></script>
+<div class="elfsight-app-6458f1c2-738e-40ed-b7a0-7379c0377dff"></div>
+
 #### Courses (at the College of Biomedical Sciences of Larkin University)
 
 <ul>
@@ -65,4 +68,4 @@ Find in this page information about
 
 <br>
 
-<font size="1">&#169; Felix E. Rivera-Mariani, PhD 2018 <i>The contents of this website reflect the views of the author and does not represent the views of my institution.</i>.</font>
+<font size="1">&#169; Felix E. Rivera-Mariani, PhD 2021 <i>The contents of this website reflect the views of the author and does not represent the views of my institution.</i>.</font>

@@ -10,6 +10,9 @@ title: Felix E. Rivera-Mariani, PhD
 
 <p>I am also a strong supporter of reproducibility in sciences, and thus have gained specializations in <i>Data Science, Genomic Data Sciences, Executive Data Science, Software Development</i> (Johns Hopkins University), <i>Systems Biology</i> (Icahn School of Medicine at Mt. Sinai), and <i>Bioinformatics</i> (University of California at San Diego). Through these specializations, I have developed extensive experience as a programmer in the R, Python, and Matlab computer languages.</p>
 
+<script src="https://apps.elfsight.com/p/platform.js" defer></script>
+<div class="elfsight-app-6458f1c2-738e-40ed-b7a0-7379c0377dff"></div>
+
 ---
 
 ## Learn more about my...
@@ -46,4 +49,4 @@ If you would like to collaborate in current and future projects, feel free to re
 
 ---
 
-<font size="1">&#169; Felix E. Rivera-Mariani, PhD 2018 <i>The contents of this website reflect the views of the author and does not represent the views of my institution.</i>.</font>
+<font size="1">&#169; Felix E. Rivera-Mariani, PhD 2021 <i>The contents of this website reflect the views of the author and does not represent the views of my institution.</i>.</font>

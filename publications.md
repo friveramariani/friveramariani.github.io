@@ -6,6 +6,9 @@ title: My Publications
 
 ## Recent Publications
 
+<script src="https://apps.elfsight.com/p/platform.js" defer></script>
+<div class="elfsight-app-6458f1c2-738e-40ed-b7a0-7379c0377dff"></div>
+
 <ul>
 <li><div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-6671-0174" href="https://orcid.org/0000-0002-6671-0174" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0002-6671-0174</a></div></li>
 </ul>
@@ -55,7 +58,8 @@ title: My Publications
 </ul>
 
 <ul>
-<li><div style="text-align:justify"><p>Stateman, Ariel J., Hayat H. Srour, Joshua K. Baguley, Shandra V. Bellinger, and Felix E. Rivera-Mariani. 2019. “Comparison between PM2.5 Levels on East Coast and State of California in Relationship to Asthma.” <i>J Allergy Clinical Immunol</i>. 143 (2): AB24. (<a href="https://www.jacionline.org/article/S0091-6749(18)31817-7/fulltext" target="_blank">click here to access the publication</a>).</p></div></li> 
+<li><div style="text-align:justify"><p>Stateman, Ariel J., Hayat H. Srour, Joshua K. Baguley, Shandra V. Bellinger, and Felix E. Rivera-Mariani. 2019. “Comparison between PM2.5 Levels on East Coast and State of California in Relationship to Asthma.” <i>J Allergy Clinical Immunol</i>. 143 (2): AB24. (<a href="https://www.jacionline.org/article/S0091-6749(18)31817-7/fulltext" target="_blank">click here to access the publication</a>).</p></div></li>
+</ul> 
 
 <ul>
 <li><div style="text-align:justify"><p>Srour H, Fomenko R, Baguley J, Bellinger S, Jordan A, Sutton J, Santana M, Marull A, Abdalhuk M, <b>Rivera-Mariani FE</b>. Pilot Study of Public-Available Data to Evaluate the Relationship between Forest Fires and Emergency Department Visits due to Asthma in the State of California. <i>F1000Research</i>. 2018. 7: 1232 (<a href="https://doi.org/10.12688/f1000research.15839.2" target="_blank">click here to access the publication</a>).</p></div></li> 
@@ -127,4 +131,4 @@ need for further studies. <i>Aerobiologia</i>. 2012: 28(2): 83-97. <a href="http
 
 <br>
 
-<font size="1">&#169; Felix E. Rivera-Mariani, PhD 2018 <i>The contents of this website reflect the views of the author and does not represent the views of my institution.</i>.</font>
+<font size="1">&#169; Felix E. Rivera-Mariani, PhD 2021 <i>The contents of this website reflect the views of the author and does not represent the views of my institution.</i>.</font>

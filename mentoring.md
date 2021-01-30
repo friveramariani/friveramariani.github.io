@@ -7,6 +7,9 @@ title: Mentoring and Mentees
 <p>“Tell me and I forget.  Teach me and I may remember.  Involve me and I learn.” </p>
 -- Benjamin Franklin
 
+<script src="https://apps.elfsight.com/p/platform.js" defer></script>
+<div class="elfsight-app-6458f1c2-738e-40ed-b7a0-7379c0377dff"></div>
+
 <p>A good scientist does not becomes a mentor by default; a good teacher does not becomes a mentor by default. <b>Becoming a good mentor</b> involves developing a series of skillsets that go beyond simlpy telling and teaching someone:</p>
 
 
@@ -212,4 +215,4 @@ Lorraine is a 3<sup>rd</sup> Ph.D. candidate in the Department of Microbiology a
 <hr>
 ---
 
-<font size="1">&#169; Felix E. Rivera-Mariani, PhD 2018 <i>The contents of this website reflect the views of the author and does not represent the views of my institution.</i>.</font>
+<font size="1">&#169; Felix E. Rivera-Mariani, PhD 2021 <i>The contents of this website reflect the views of the author and does not represent the views of my institution.</i>.</font>

@@ -6,6 +6,9 @@ title: Data Science and Computational Approaches
 
 Find in this page information about Computational Approaches in Biology and Data Science employing R, Python, Matlab, including computational approaches...
 
+<script src="https://apps.elfsight.com/p/platform.js" defer></script>
+<div class="elfsight-app-6458f1c2-738e-40ed-b7a0-7379c0377dff"></div>
+
 - for big data analysis in biological sciences (computational biology)
 - to monitor students' learning and performance in the classroom
 - to implement machine learning methods
@@ -56,4 +59,4 @@ Other biological and non-biological data sciences
 
 <br>
 
-<font size="1">&#169; Felix E. Rivera-Mariani, PhD 2018 <i>The contents of this website reflect the views of the author and does not represent the views of my institution.</i>.</font>
+<font size="1">&#169; Felix E. Rivera-Mariani, PhD 2021 <i>The contents of this website reflect the views of the author and does not represent the views of my institution.</i>.</font>
