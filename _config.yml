@@ -26,13 +26,13 @@ description: Personal website for Felix E. Rivera-Mariani, PhD
 navbar-links:
   Home: ""
   About Me: 
-    - Curriculum Vitae: "CV/CV_FE_RiveraMariani.pdf"
+    - CV: "CV/CV_FE_RiveraMariani.pdf"
     - Fellowships: "fellowships"
     - Specializations: "specs"
     - Publications: "publications" 
     - Data Science: "datasci"
     - Teaching: "teaching"
-    - Science Comm.: "https://www.vistazoalaciencia.com"
+    - SciComm: "https://www.vistazoalaciencia.com"
   News|Blog: "blog"
   Mentoring: "mentoring"
   Lab: "https://www.riplrt.com"
