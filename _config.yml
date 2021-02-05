@@ -33,7 +33,7 @@ navbar-links:
     - Data Science: "datasci"
     - Teaching: "teaching"
     - Science Comm.: "https://www.vistazoalaciencia.com"
-  News/Blog: "blog"
+  News|Blog: "blog"
   Mentoring: "mentoring"
   Lab: "https://www.riplrt.com"
   SciComm: "https://www.vistazoalaciencia.com"
