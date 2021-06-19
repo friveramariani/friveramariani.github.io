@@ -1,24 +1,18 @@
-# --- General options --- #
+# Welcome to Beautiful Jekyll!
+# This config file is meant for settings that affect your entire website. When you first
+# set up your website you should go through all these settings and edit them, but after
+# the initial set up you won't need to come back to this file often.
 
-# url is the full website URL
-# baseurl is the website's URL without the hostname
-
-# If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://friveramariani.github.io"
-baseurl: ""
-
-# If you are building a GitHub project page then use these settings:
-#url: "http://username.github.io/projectname"
-#baseurl: "/projectname"
-
-# Of course don't forget to change the username and projectname to YOUR username and project
+# --- Required options --- #
 
 # Name of website
-title: Felix E. Rivera-Mariani, PhD
-subtitle: Credentials, Publications, Science Teaching, and Computational Data Sciences
+title: Félix E. Rivera-Mariani, PhD
 
 # Short description of your site
 description: Personal website for Felix E. Rivera-Mariani, PhD
+
+# Your name to show in the footer
+author: Copyrights 2021 Felix E. Rivera-Mariani, PhD LLC
 
 # --- Navigation bar options --- #
 
@@ -32,28 +26,88 @@ navbar-links:
     - Publications: "publications" 
     - Data Science: "datasci"
     - Teaching: "teaching"
-    - SciComm: "https://www.vistazoalaciencia.com"
   News|Blog: "blog"
   Mentoring: "mentoring"
   Lab: "https://www.riplrt.com"
   SciComm: "https://www.vistazoalaciencia.com"
-  Photo: "bit.ly/fermphoto"
 
-
+# --- Logo --- #
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
 avatar: "/img/RiveraMariani-Photo.JPG"
 
-
+# By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
+round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
 # title-img: /img/RIPL_EffectRT2.png
 
+# --- Footer social media links --- #
 
+# Select the social network links that you want to show in the footer.
+# Uncomment the links you want to show and add your information to each one.
+social-network-links:
+  email: "felixrm@friveram.com"
+  twitter: friveramariani
+  github: friveramariani
+  linkedin: felixeriveramariani
+  google-scholar: jT--4N8AAAAJ
+  ORCID: 0000-0002-6671-0174
+  twitter: friveramariani
+#  facebook: username
+#  patreon: username
+#  youtube: username
+#  medium: yourname
+#  reddit: yourname
+#  xing: yourname
+#  stackoverflow: "3943160/daattali"
+#  snapchat: yourname
+#  instagram: yourname
+#  spotify: yourname
+#  telephone: +1555555555
+#  steam: deanat78
+#  twitch: yourname
+#  yelp: yourname
+#  telegram: yourname
+#  calendly: yourname
+#  mastodon: instance.url/@username
 
-# --- Background colour/image options --- #
+# If you want to show a link to an RSS in the footer, add the site description here.
+# If you don't want to show an RSS link, remove the following line.
+# rss-description: This website is a virtual proof that I'm awesome
+
+# --- General options --- #
+
+# Select which social network share links to show in posts
+share-links-active:
+  twitter: true
+  facebook: true
+  linkedin: true
+  vk: false
+
+# How to display the link to your website in the footer
+# Remove this if you don't want a link in the footer
+url-pretty: "friveram.com"
+
+# Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
+excerpt_length: 50
+
+# Whether or not to show an excerpt for every blog post in the feed page
+feed_show_excerpt: true
+
+# Whether or not to show a list of tags below each post preview in the feed page
+feed_show_tags: true
+
+# Add a search button to the navbar
+post_search: true
+
+# The keywords to associate with your website, for SEO purposes
+keywords: "Felix E. Rivera-Mariani, RIPLRT, Immunology, Environmental Health, Respiratory Health, Data Science, 
+            Puerto Rico, Vistazo A La Ciencia, RIPLRT, SciComm"
+
+# --- Colours / background image --- #
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
@@ -74,34 +128,16 @@ footer-link-col: "#404040"
 # footer-img: "/img/bgimage.png"
 # page-img: "/img/bgimage.png"
 
-# --- Footer options --- #
+# Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
+#mobile-theme-col: "#0085A1"
 
-# Change all these values or delete the ones you don't want (these appear in the footer).
-# Important: you must keep the "name" parameter, everything else you can remove
-author:
-  name: Copyrights 2021 Felix E. Rivera-Mariani, PhD LLC
-  email: "felixrm@friveram.com"
-  github: friveramariani
-  twitter: friveramariani
-  linkedin: https://www.linkedin.com/in/felixeriveramariani 
+# For any extra visual customization, you can include additional CSS files in every page on your site. List any custom CSS files here
+#site-css:
+#  - "/assets/css/custom-styles.css"
 
-# Select which links to show in the footer
-footer-links-active:
-  github: true
-  email: true
-  rss: false
-  facebook: false
-  twitter: true
-  linkedin: true
-  youtube: true
-
-# Select which share links to show in posts
-share-links-active:
-  twitter: true
-  facebook: true
-  google: false
-  linkedin: true
-
+# If you have common JavaScript files that should be included in every page, list them here
+#site-js:
+#  - "/assets/js/custom-script.js"
 
 # --- Web Statistics Section --- #
 
@@ -114,10 +150,12 @@ google_analytics: "UA-103557590-4"
 # Google Tag Manager ID
 #gtm: ""
 
+# Fill in your Cloudflare Analytics beacon token to track your website using Cloudflare Analytics
+#cloudflare_analytics: ""
+
 # Matomo (aka Piwik) Web statistics
 # Uncomment the following section to enable Matomo. The opt-out parameter controls
 # whether or not you want to allow users to opt out of tracking.
-
 #matomo:
 #  site_id: "9"
 #  uri: "demo.wiki.pro"
@@ -128,21 +166,41 @@ google_analytics: "UA-103557590-4"
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
 disqus: "friveram"
 
-# To use Facebook Comments, fill in a Facebook App ID
-# fb_comment_id: ""
+# To use Facebook Comments, create a Facebook app and fill in the Facebook App ID
+#fb_comment_id: ""
+
+# To use Utterances comments: (0) uncomment the following section, (1) fill in
+# "repository" (make sure the repository is public), (2) Enable Issues in your repository,
+# (3) Install the Utterances app in your repository https://github.com/apps/utterances
+# See more details about the parameters below at https://utteranc.es/
+#utterances:
+#  repository: # GitHub username/repository eg. "daattali/beautiful-jekyll"
+#  issue-term: title   # Mapping between blog posts and GitHub issues
+#  theme: github-light # Utterances theme
+#  label: blog-comments # Label that will be assigned to GitHub Issues created by Utterances
+
+# To use Staticman comments, uncomment the following section. You may leave the reCaptcha
+# section commented if you aren't using reCaptcha for spam protection. 
+# Using Staticman requires advanced knowledge, please consult 
+# https://github.com/eduardoboucas/staticman/ and https://staticman.net/ for further 
+# instructions. For any support with staticman please direct questions to staticman and 
+# not to BeautifulJekyll.
+#staticman:
+#  repository : # GitHub username/repository eg. "daattali/beautiful-jekyll"
+#  branch     : master # If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
+#  endpoint   : # URL of your deployment, with a trailing slash eg. "https://<your-api>/v3/entry/github/"
+#  reCaptcha:   # (optional, set these parameters in `staticman.yml` as well) 
+#    siteKey  : # You need to apply for a site key on Google
+#    secret   : # Encrypt your password by going to https://<your-own-api>/v3/encrypt/<your-site-secret>
+
 
 # --- Misc --- #
 
+## Ruby Date Format to show dates of posts
+date_format: "%B %-d, %Y"
+
 # Facebook App ID
-# fb_app_id: ""
-
-# Excerpt Word Length
-# Truncates the excerpt to the specified number of words on the index page
-excerpt_length: 50
-
-# Character used to separate site title and description in HTML document title
-# and RSS feed title
-title-separator: "-"
+#fb_app_id: ""
 
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
@@ -179,61 +237,13 @@ link-tags: true
 
 # Exclude these files from production site
 exclude:
+  - CHANGELOG.md
   - CNAME
+  - Gemfile
+  - Gemfile.lock
   - LICENSE
   - README.md
-
-# prose.io config
-prose:
-  rooturl: '_posts'
-  media: 'img'
-  ignore:
-    - 404.html
-    - LICENSE
-    - feed.xml
-    - _config.yml
-    - /_layouts
-    - /_includes
-    - /css
-    - /img
-    - /js
-  metadata:
-    _posts:
-      - name: "layout"
-        field:
-          element: "hidden"
-          value: "post"
-      - name: "title"
-        field:
-          element: "text"
-          label: "Post title"
-          placeholder: "Title"
-          alterable: true
-      - name: "subtitle"
-        field:
-          element: "textarea"
-          label: "Subtitle"
-          placeholder: "A description of your post."
-          alterable: true
-      - name: "date"
-        field:
-          element: "text"
-          label: "Date"
-          help: "Enter date of post."
-          placeholder: "yyyy-mm-dd"
-          alterable: true
-      - name: "image"
-        field:
-          element: "text"
-          label: "Image"
-          help: "Add a thumbnail image to your post."
-          placeholder: "Thumbnail"
-          alterable: true
-      - name: "published"
-        field:
-          element: "checkbox"
-          label: "Publish"
-          help: "Check to publish post, uncheck to hide."
+  - screenshot.png
 
 plugins:
   - jekyll-paginate
