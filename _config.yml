@@ -6,17 +6,13 @@
 # --- Required options --- #
 
 # Name of website
-title: Félix E. Rivera-Mariani, PhD
-
-# Short description of your site
-description: Personal website for Felix E. Rivera-Mariani, PhD
+title: Felix E. Rivera-Mariani, PhD
 
 # Your name to show in the footer
 author: Copyrights 2021 Felix E. Rivera-Mariani, PhD LLC
 
-# --- Navigation bar options --- #
+# --- List of links in the navigation bar --- #
 
-# List of links in the navigation bar
 navbar-links:
   Home: ""
   About Me: 
@@ -30,6 +26,7 @@ navbar-links:
   Mentoring: "mentoring"
   Lab: "https://www.riplrt.com"
   SciComm: "https://www.vistazoalaciencia.com"
+  Photo: "bit.ly/fermphoto"
 
 # --- Logo --- #
 
@@ -40,45 +37,44 @@ avatar: "/img/RiveraMariani-Photo.JPG"
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
 
-# If you want to have an image logo in the top-left corner instead of the title text,
+# If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-# title-img: /img/RIPL_EffectRT2.png
+#title-img: /path/to/image
 
-# --- Footer options --- #
 
-# Change all these values or delete the ones you don't want (these appear in the footer).
-# Important: you must keep the "name" parameter, everything else you can remove
-author:
-  name: Copyrights 2021 Felix E. Rivera-Mariani, PhD LLC
+# --- Footer social media links --- #
+
+# Select the social network links that you want to show in the footer.
+# Uncomment the links you want to show and add your information to each one.
+social-network-links:
   email: "felixrm@friveram.com"
   github: friveramariani
   twitter: friveramariani
-  linkedin: felixeriveramariani 
-  google-scholar: jT--4N8AAAAJ
+  linkedin: felixeriveramariani
   ORCID: 0000-0002-6671-0174
-
-# Select which links to show in the footer
-footer-links-active:
-  github: true
-  email: true
-  rss: false
-  facebook: false
-  twitter: true
-  linkedin: true
-  youtube: true
-  google-scholar: true 
-  ORCID: true 
-
-# Select which share links to show in posts
-share-links-active:
-  twitter: true
-  facebook: true
-  google: false
-  linkedin: true
+  google-scholar: jT--4N8AAAAJ
+#  youtube: c/channel
+#  patreon: username
+#  facebook: username
+#  medium: yourname
+#  reddit: yourname
+#  linkedin: daattali
+#  xing: yourname
+#  stackoverflow: "3943160/daattali"
+#  snapchat: deanat78
+#  instagram: deanat78
+#  spotify: yourname
+#  telephone: +14159998888
+#  steam: deanat78
+#  twitch: yourname
+#  yelp: yourname
+#  telegram: yourname
+#  calendly: yourname
+#  mastodon: instance.url/@username
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-# rss-description: This website is a virtual proof that I'm awesome
+rss-description: This website is a virtual proof that I'm awesome
 
 # --- General options --- #
 
@@ -106,29 +102,30 @@ feed_show_tags: true
 post_search: true
 
 # The keywords to associate with your website, for SEO purposes
-keywords: "Felix E. Rivera-Mariani, RIPLRT, Immunology, Environmental Health, Respiratory Health, Data Science, 
-            Puerto Rico, Vistazo A La Ciencia, RIPLRT, SciComm"
+#keywords: "my,list,of,keywords"
 
 # --- Colours / background image --- #
 
-# Personalize the colors in your website. Colour values can be any valid CSS colour
+# Personalize the colours in your website. Colour values can be any valid CSS colour
 
 navbar-col: "#00CED1"
 navbar-text-col: "#404040"
+navbar-border-col: "#DDDDDD"
 navbar-children-col: "#00CED1"
 page-col: "#FFFFFF"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#00CED1"
+text-col: "#404040"
+footer-col: "#EAEAEA"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
 
-# Alternatively, the navbar, footer, and page background can be set to use background images
+# Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
 
-# navbar-img: "/img/bgimage.png"
-# footer-img: "/img/bgimage.png"
-# page-img: "/img/bgimage.png"
+#navbar-img: "/assets/img/bgimage.png"
+#footer-img: "/assets/img/bgimage.png"
+#page-img: "/assets/img/bgimage.png"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
 #mobile-theme-col: "#0085A1"
@@ -141,19 +138,19 @@ footer-link-col: "#404040"
 #site-js:
 #  - "/assets/js/custom-script.js"
 
-# --- Web Statistics Section --- #
+# --- Web Analytics Section --- #
 
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
 #gtag: ""
 
-# Fill in your Google Analytics ID to track your website using GA
+# Fill in your Google Analytics ID to track your website using Google Analytics
 google_analytics: "UA-103557590-4"
-
-# Google Tag Manager ID
-#gtm: ""
 
 # Fill in your Cloudflare Analytics beacon token to track your website using Cloudflare Analytics
 #cloudflare_analytics: ""
+
+# Google Tag Manager ID
+#gtm: ""
 
 # Matomo (aka Piwik) Web statistics
 # Uncomment the following section to enable Matomo. The opt-out parameter controls
@@ -165,7 +162,7 @@ google_analytics: "UA-103557590-4"
 
 # --- Comments --- #
 
-# Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
+# To use Disqus comments, sign up to https://disqus.com and fill in your Disqus shortname (NOT the userid)
 disqus: "friveram"
 
 # To use Facebook Comments, create a Facebook app and fill in the Facebook App ID
@@ -195,16 +192,15 @@ disqus: "friveram"
 #    siteKey  : # You need to apply for a site key on Google
 #    secret   : # Encrypt your password by going to https://<your-own-api>/v3/encrypt/<your-site-secret>
 
-
 # --- Misc --- #
 
-## Ruby Date Format to show dates of posts
+# Ruby Date Format to show dates of posts
 date_format: "%B %-d, %Y"
 
 # Facebook App ID
 #fb_app_id: ""
 
-# --- Don't need to touch anything below here (but you can if you want) --- #
+# --- You don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
 timezone: "America/New York"
@@ -212,7 +208,6 @@ markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
 paginate: 5
-paginate_path: "/blog/page:num/"
 
 kramdown:
   input: GFM
@@ -229,13 +224,9 @@ defaults:
       social-share: true # add social media sharing buttons to all blog posts
   -
     scope:
-      path: "" # all files
+      path: "" # any file that's not a post will be a "page" layout by default
     values:
       layout: "page"
-      show-avatar: true
-
-# Use tags index page and make tags on each post clickable
-link-tags: true
 
 # Exclude these files from production site
 exclude:
@@ -246,6 +237,7 @@ exclude:
   - LICENSE
   - README.md
   - screenshot.png
+  - docs/
 
 plugins:
   - jekyll-paginate
