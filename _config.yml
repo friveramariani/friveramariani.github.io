@@ -44,35 +44,37 @@ round-avatar: true
 # then specify the following parameter
 # title-img: /img/RIPL_EffectRT2.png
 
-# --- Footer social media links --- #
+# --- Footer options --- #
 
-# Select the social network links that you want to show in the footer.
-# Uncomment the links you want to show and add your information to each one.
-social-network-links:
+# Change all these values or delete the ones you don't want (these appear in the footer).
+# Important: you must keep the "name" parameter, everything else you can remove
+author:
+  name: Copyrights 2021 Felix E. Rivera-Mariani, PhD LLC
   email: "felixrm@friveram.com"
-  twitter: friveramariani
   github: friveramariani
-  linkedin: felixeriveramariani
+  twitter: friveramariani
+  linkedin: felixeriveramariani 
   google-scholar: jT--4N8AAAAJ
   ORCID: 0000-0002-6671-0174
-  twitter: friveramariani
-#  facebook: username
-#  patreon: username
-#  youtube: username
-#  medium: yourname
-#  reddit: yourname
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: yourname
-#  instagram: yourname
-#  spotify: yourname
-#  telephone: +1555555555
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
-#  telegram: yourname
-#  calendly: yourname
-#  mastodon: instance.url/@username
+
+# Select which links to show in the footer
+footer-links-active:
+  github: true
+  email: true
+  rss: false
+  facebook: false
+  twitter: true
+  linkedin: true
+  youtube: true
+  google-scholar: true 
+  ORCID: true 
+
+# Select which share links to show in posts
+share-links-active:
+  twitter: true
+  facebook: true
+  google: false
+  linkedin: true
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
