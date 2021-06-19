@@ -27,19 +27,6 @@ title: Felix E. Rivera-Mariani, PhD
 </ul>
 
 ---
-
-## Contact and Social Media Channels 
-
-If you would like to collaborate in current and future projects, feel free to reach out or follow at:
-
-<ul>
-	<li><a href="mailto:felixrm@friveram.com" target="_blank" style="color:#515151;"><i class="fa fa-envelope" style="font-size:1em"></i> &nbsp;<b>my Email</b><br></a></li>
-	<li><a href="https://twitter.com/friveramariani?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @friveramariani</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></li>
-	<li><a href="https://twitter.com/intent/tweet?screen_name=friveramariani&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-show-count="false">Tweet to @friveramariani</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></li>
- 	<li><script src="//platform.linkedin.com/in.js" type="text/javascript"></script><script type="IN/MemberProfile" data-id="http://www.linkedin.com/in/felixeriveramariani" data-format="hover" data-related="false" data-text="Felix E. Rivera-Mariani, PhD"></script></li>
-</ul>
-
----
 ## Recent News and Blogs
 
 <img src="/img/pmctrp_seminar.jpeg" alt="Semianr at UPR-RCM Postdoctoral MS in Clinical and Translational Sciences" align="right" style="width: 30%; height: 30%; margin:8px"> 
